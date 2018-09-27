@@ -11,14 +11,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ## References
 **参考文献**
-
 - [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
-
-![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
-
 - [Essential細胞生物学（原書第4版）: 教科書／南江堂](http://www.nankodo.co.jp/g/g9784524261994/)
-
-![](http://www.nankodo.co.jp/img/goods/L/9784524261994.jpg)
 
 ## Class Schedule & Materials
 **講義日程と資料**
