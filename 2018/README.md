@@ -63,7 +63,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - P14: 真核細胞
 - [原核生物 Prokaryote: 核をもたない生物](https://ultrabem.com/organism/taxa/prokaryote.html)
 
-[新しい系統樹では細菌が圧倒的に優勢](https://www.natureasia.com/ja-jp/research/highlight/10626)
+[新しい系統樹では細菌が圧倒的に優勢 | Nature Microbiology](https://www.natureasia.com/ja-jp/research/highlight/10626)
 
 ![](https://media.nature.com/m685/nature-assets/nmicrobiol/2016/nmicrobiol201648/images_hires/nmicrobiol201648-f2.jpg)
 
@@ -89,7 +89,6 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - P616: S期
   - P618: M期
 - ECB: 19　有性生殖と遺伝学の力
-  - P646: 性の利点
   - P648: 減数分裂と受精
 
 ## 1-4
@@ -111,17 +110,17 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ## 1-6
 　翻訳
 　　タンパク質の生合成
-- 
+- Keyword tRNA，遺伝暗号，コドン，リボソーム，翻訳
 
 ## 1-7
 　核酸の構造と機能
 　　DNAとRNA の構造と機能
-- 
+- Keyword DNA，二重らせん，mRNA，tRNA，rRNA
 
 ## 1-8
 　アミノ酸の構造と性質
 　　20種類の生体アミノ酸の構造と性質
-- 
+- Keyword α– アミノ酸，アミノ基，カルボキシ基，側鎖，光学異性体
 
 ----------
 # 2018-10-12
