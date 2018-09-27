@@ -57,7 +57,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ## 1-1
 　原核細胞と真核細胞
 　　細胞の分類とウイルス
-
+- Keyword 細胞，原核生物，真核生物，ウイルス，逆転写
 - ECB: 1　細胞：生命の基本単位
   - P12: 原核細胞
   - P14: 真核細胞
@@ -73,7 +73,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ## 1-2
 　細胞内小器官
 　　細胞内小器官とその役割
-
+- Keyword 細胞内小器官，細胞内局在性，動物細胞，植物細胞
 - ECB4: 14　ミトコンドリアと葉緑体でのエネルギー生産
 - ECB4: 15　細胞内区画とタンパク質の輸送
   - P488: 膜で囲まれた細胞小器官
@@ -82,7 +82,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ## 1-3
 　細胞周期
 　　細胞分裂と細胞周期
-
+- Keyword 細胞周期，体細胞分裂，減数分裂，相同組換え
 - ECB: 18　細胞周期
   - P604: 細胞周期の概要
   - P613: G1期
@@ -95,22 +95,33 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ## 1-4
 　DNA の複製
 　　ゲノムDNA の半保存的複製
+- Keyword 半保存的複製，DNA ポリメラーゼ，複製フォーク，不連続的複製，複製開始点
+
+[: ドリュー・ベリー「不可視な超微小生物世界のCG」 | TED Talk](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology?language=ja)
 
 ----------
 # 2018-10-05
 第2回「バイオインフォマティクス入門」第1章 生命科学 1-5～1-8
 
-　1-5　転写
+## 1-5
+　転写
 　　ゲノムDNA からのさまざまなRNAの合成
+- Keyword RNA，転写調節，スプライシング，遺伝子発現，マイクロ RNA
 
-　1-6　翻訳
+## 1-6
+　翻訳
 　　タンパク質の生合成
+- 
 
-　1-7　核酸の構造と機能
+## 1-7
+　核酸の構造と機能
 　　DNAとRNA の構造と機能
+- 
 
-　1-8　アミノ酸の構造と性質
+## 1-8
+　アミノ酸の構造と性質
 　　20種類の生体アミノ酸の構造と性質
+- 
 
 ----------
 # 2018-10-12
