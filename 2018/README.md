@@ -54,7 +54,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 # 2018-09-28
 第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4
 
-　1-1　原核細胞と真核細胞
+## 1-1
+　原核細胞と真核細胞
 　　細胞の分類とウイルス
 
 - ECB: 1　細胞：生命の基本単位
@@ -69,7 +70,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
 Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
-　1-2　細胞内小器官
+## 1-2
+　細胞内小器官
 　　細胞内小器官とその役割
 
 - ECB4: 14　ミトコンドリアと葉緑体でのエネルギー生産
@@ -77,7 +79,8 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - P488: 膜で囲まれた細胞小器官
 - [Genome List - Organelles](https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/)
 
-　1-3　細胞周期
+## 1-3
+　細胞周期
 　　細胞分裂と細胞周期
 
 - ECB: 18　細胞周期
@@ -89,7 +92,8 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - P646: 性の利点
   - P648: 減数分裂と受精
 
-　1-4　DNA の複製
+## 1-4
+　DNA の複製
 　　ゲノムDNA の半保存的複製
 
 ----------
