@@ -57,23 +57,37 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 　1-1　原核細胞と真核細胞
 　　細胞の分類とウイルス
 
-- [Genome List - Genome - NCBI](https://www.ncbi.nlm.nih.gov/genome/browse/)
-- [原核生物 Prokaryote: 核をもたない生物](https://ultrabem.com/organism/taxa/prokaryote.html)
-- [ウイルス | 日経サイエンス](http://www.nikkei-science.com/?tag=ウイルス)
 - ECB: 1　細胞：生命の基本単位
   - P12: 原核細胞
   - P14: 真核細胞
+- [原核生物 Prokaryote: 核をもたない生物](https://ultrabem.com/organism/taxa/prokaryote.html)
 
 [新しい系統樹では細菌が圧倒的に優勢](https://www.natureasia.com/ja-jp/research/highlight/10626)
 
 ![](https://media.nature.com/m685/nature-assets/nmicrobiol/2016/nmicrobiol201648/images_hires/nmicrobiol201648-f2.jpg)
 
+- [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
+Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 　1-2　細胞内小器官
 　　細胞内小器官とその役割
 
+- ECB4: 14　ミトコンドリアと葉緑体でのエネルギー生産
+- ECB4: 15　細胞内区画とタンパク質の輸送
+  - P488: 膜で囲まれた細胞小器官
+- [Genome List - Organelles](https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/)
+
 　1-3　細胞周期
 　　細胞分裂と細胞周期
+
+- ECB: 18　細胞周期
+  - P604: 細胞周期の概要
+  - P613: G1期
+  - P616: S期
+  - P618: M期
+- ECB: 19　有性生殖と遺伝学の力
+  - P646: 性の利点
+  - P648: 減数分裂と受精
 
 　1-4　DNA の複製
 　　ゲノムDNA の半保存的複製
