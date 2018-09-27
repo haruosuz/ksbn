@@ -4,7 +4,7 @@ Keio SFC
 教室 [Ω12](http://classroom.sfc.keio.ac.jp/class/w-to/w-12.html)  
 
 # ksbn
-MOLECULAR AND CELLULAR BIOLOGY 3[Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160&lang=en)  
+MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160&lang=en)  
 MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25192&ks=B6161&lang=en)  
 基礎分子生物学 3 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160)  
 基礎分子生物学 4 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25192&ks=B6161)  
@@ -26,7 +26,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [2018年度秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf)
 
 2018年度秋学期 金曜日４時限（Ω12）基礎分子生物学３【学期前半】 
-- 2018-09-28 第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4 
+- [2018-09-28](#2018-09-28) 第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4 
 - 2018-10-05 第2回「バイオインフォマティクス入門」第1章 生命科学 1-5～1-8
 - 2018-10-12 第3回「バイオインフォマティクス入門」第1章 生命科学 1-9～1-12
 - 2018-10-19 第4回「バイオインフォマティクス入門」第1章 生命科学 1-13～1-16
@@ -49,8 +49,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
 
 第1章　生命科学
-
-[: ドリュー・ベリー「不可視な超微小生物世界のCG」 | TED Talk](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology?language=ja)
 
 ----------
 # 2018-09-28
@@ -99,6 +97,8 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - ECB: 6　DNAの複製，修復，組換え
   - P198: DNA複製
   - P211: DNA修復
+
+[: ドリュー・ベリー「不可視な超微小生物世界のCG」 | TED Talk](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology?language=ja)
 
 ----------
 # 2018-10-05
