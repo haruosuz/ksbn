@@ -50,6 +50,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 第1章　生命科学
 
+[: ドリュー・ベリー「不可視な超微小生物世界のCG」 | TED Talk](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology?language=ja)
+
 ----------
 # 2018-09-28
 第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4
@@ -62,13 +64,12 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - P12: 原核細胞
   - P14: 真核細胞
 - [原核生物 Prokaryote: 核をもたない生物](https://ultrabem.com/organism/taxa/prokaryote.html)
+- [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
+Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 [新しい系統樹では細菌が圧倒的に優勢 | Nature Microbiology](https://www.natureasia.com/ja-jp/research/highlight/10626)
 
 ![](https://media.nature.com/m685/nature-assets/nmicrobiol/2016/nmicrobiol201648/images_hires/nmicrobiol201648-f2.jpg)
-
-- [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
-Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 ## 1-2
 　細胞内小器官
@@ -95,8 +96,9 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　DNA の複製
 　　ゲノムDNA の半保存的複製
 - Keyword 半保存的複製，DNA ポリメラーゼ，複製フォーク，不連続的複製，複製開始点
-
-[: ドリュー・ベリー「不可視な超微小生物世界のCG」 | TED Talk](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology?language=ja)
+- ECB: 6　DNAの複製，修復，組換え
+  - P198: DNA複製
+  - P211: DNA修復
 
 ----------
 # 2018-10-05
