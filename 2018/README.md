@@ -11,11 +11,14 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ## References
 **参考文献**
-- [Essential細胞生物学（原書第4版）: 教科書／南江堂](http://www.nankodo.co.jp/g/g9784524261994/)
-![](http://www.nankodo.co.jp/img/goods/L/9784524261994.jpg)
 
 - [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
+
 ![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
+
+- [Essential細胞生物学（原書第4版）: 教科書／南江堂](http://www.nankodo.co.jp/g/g9784524261994/)
+
+![](http://www.nankodo.co.jp/img/goods/L/9784524261994.jpg)
 
 ## Class Schedule & Materials
 **講義日程と資料**
@@ -43,14 +46,28 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 2019-01-18 第7回 最終試験・総括
 
 ----------
-# 2018-09-28
-第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4
-
 [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
 
 第1章　生命科学
+
+----------
+# 2018-09-28
+第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4
+
 　1-1　原核細胞と真核細胞
 　　細胞の分類とウイルス
+
+- [Genome List - Genome - NCBI](https://www.ncbi.nlm.nih.gov/genome/browse/)
+- [原核生物 Prokaryote: 核をもたない生物](https://ultrabem.com/organism/taxa/prokaryote.html)
+- [ウイルス | 日経サイエンス](http://www.nikkei-science.com/?tag=ウイルス)
+- ECB: 1　細胞：生命の基本単位
+  - P12: 原核細胞
+  - P14: 真核細胞
+
+[新しい系統樹では細菌が圧倒的に優勢](https://www.natureasia.com/ja-jp/research/highlight/10626)
+
+![](https://media.nature.com/m685/nature-assets/nmicrobiol/2016/nmicrobiol201648/images_hires/nmicrobiol201648-f2.jpg)
+
 
 　1-2　細胞内小器官
 　　細胞内小器官とその役割
