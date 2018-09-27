@@ -55,7 +55,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 第1回「バイオインフォマティクス入門」第1章 生命科学 1-1～1-4
 
 ## 1-1
-　原核細胞と真核細胞
+　原核細胞と真核細胞  
 　　細胞の分類とウイルス
 - Keyword 細胞，原核生物，真核生物，ウイルス，逆転写
 - ECB: 1　細胞：生命の基本単位
@@ -70,7 +70,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ![](https://media.nature.com/m685/nature-assets/nmicrobiol/2016/nmicrobiol201648/images_hires/nmicrobiol201648-f2.jpg)
 
 ## 1-2
-　細胞内小器官
+　細胞内小器官  
 　　細胞内小器官とその役割
 - Keyword 細胞内小器官，細胞内局在性，動物細胞，植物細胞
 - ECB4: 14　ミトコンドリアと葉緑体でのエネルギー生産
@@ -79,7 +79,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - [Genome List - Organelles](https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/)
 
 ## 1-3
-　細胞周期
+　細胞周期  
 　　細胞分裂と細胞周期
 - Keyword 細胞周期，体細胞分裂，減数分裂，相同組換え
 - ECB: 18　細胞周期
@@ -91,7 +91,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - P648: 減数分裂と受精
 
 ## 1-4
-　DNA の複製
+　DNA の複製  
 　　ゲノムDNA の半保存的複製
 - Keyword 半保存的複製，DNA ポリメラーゼ，複製フォーク，不連続的複製，複製開始点
 - ECB: 6　DNAの複製，修復，組換え
@@ -105,22 +105,22 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 第2回「バイオインフォマティクス入門」第1章 生命科学 1-5～1-8
 
 ## 1-5
-　転写
+　転写  
 　　ゲノムDNA からのさまざまなRNAの合成
 - Keyword RNA，転写調節，スプライシング，遺伝子発現，マイクロ RNA
 
 ## 1-6
-　翻訳
+　翻訳  
 　　タンパク質の生合成
 - Keyword tRNA，遺伝暗号，コドン，リボソーム，翻訳
 
 ## 1-7
-　核酸の構造と機能
+　核酸の構造と機能  
 　　DNAとRNA の構造と機能
 - Keyword DNA，二重らせん，mRNA，tRNA，rRNA
 
 ## 1-8
-　アミノ酸の構造と性質
+　アミノ酸の構造と性質  
 　　20種類の生体アミノ酸の構造と性質
 - Keyword α– アミノ酸，アミノ基，カルボキシ基，側鎖，光学異性体
 
