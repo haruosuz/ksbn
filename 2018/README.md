@@ -28,17 +28,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [2018-11-02](#2018-11-02) 第6回 まとめ「Essential細胞生物学」第11~15章
 - [2018-11-09](#2018-11-09) 第7回 最終試験・総括 / Final Exam and Summary 
 
-2018年度秋学期 金曜日４時限（Ω12）基礎分子生物学４【学期後半】
-- 2018-11-16 第1回「バイオインフォマティクス入門」第2章 計算科学
-- 2018-11-23 勤労感謝の日
-- 2018-11-30 第2回「バイオインフォマティクス入門」第3章 配列解析
-- 2018-12-07 第3回「バイオインフォマティクス入門」第4章 構造解析
-- 2018-12-14 第4回「バイオインフォマティクス入門」第5章 遺伝・進化解析
-- 2018-12-21 第5回「バイオインフォマティクス入門」第6章 オーミクス解析
-- 2018-12-28 事務室閉室・冬季休校（12/28～1/5） 
-- 2019-01-11 第6回 まとめ「Essential細胞生物学」第16~20章
-- 2019-01-18 第7回 最終試験・総括
-
 ----------
 [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
 
@@ -55,23 +44,28 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - ECB: 1　細胞：生命の基本単位
   - P12: 原核細胞
   - P14: 真核細胞
-- [原核生物 Prokaryote: 核をもたない生物](https://ultrabem.com/organism/taxa/prokaryote.html)
-- [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
+
+[Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
 Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
+
+[京都大学学術出版会：微生物生態学](http://www.kyoto-up.or.jp/book.php?id=2128) BOX1.3 原核生物という用語をめぐる議論
 
 [新しい系統樹では細菌が圧倒的に優勢](https://www.natureasia.com/ja-jp/research/highlight/10626)
 [A new view of the tree of life](https://www.nature.com/articles/nmicrobiol201648)
-
-![](https://media.nature.com/m685/nature-assets/nmicrobiol/2016/nmicrobiol201648/images_hires/nmicrobiol201648-f2.jpg)
 
 ## 1-2
 　細胞内小器官  
 　　細胞内小器官とその役割
 - Keyword 細胞内小器官，細胞内局在性，動物細胞，植物細胞
-- ECB4: 14　ミトコンドリアと葉緑体でのエネルギー生産
-- ECB4: 15　細胞内区画とタンパク質の輸送
+- ECB: 14　ミトコンドリアと葉緑体でのエネルギー生産
+  - P451: ミトコンドリアと酸化的リン酸化
+  - P461: 電子伝達系とプロトンのくみ出しの分子機構
+  - P469: 葉緑体と光合成
+  - P479: エネルギー生産系の進化
+- ECB: 15　細胞内区画とタンパク質の輸送
   - P488: 膜で囲まれた細胞小器官
-- [Genome List - Organelles](https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/)
+
+[Genome List - Organelles](https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/)
 
 ## 1-3
 　細胞周期  
@@ -79,9 +73,6 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - Keyword 細胞周期，体細胞分裂，減数分裂，相同組換え
 - ECB: 18　細胞周期
   - P604: 細胞周期の概要
-  - P613: G1期
-  - P616: S期
-  - P618: M期
 - ECB: 19　有性生殖と遺伝学の力
   - P648: 減数分裂と受精
 
@@ -91,9 +82,6 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - Keyword 半保存的複製，DNA ポリメラーゼ，複製フォーク，不連続的複製，複製開始点
 - ECB: 6　DNAの複製，修復，組換え
   - P198: DNA複製
-  - P211: DNA修復
-
-[: ドリュー・ベリー「不可視な超微小生物世界のCG」 | TED Talk](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology?language=ja)
 
 ----------
 # 2018-10-05
@@ -108,6 +96,10 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　翻訳  
 　　タンパク質の生合成
 - Keyword tRNA，遺伝暗号，コドン，リボソーム，翻訳
+- ECB: 7　DNAからタンパク質へ－細胞がゲノムを読み取るしくみ
+- [遺伝暗号(コドン）使用の種による多様性](https://www.nig.ac.jp/museum/evolution/04.html)
+- [Codon Usage Database](https://www.kazusa.or.jp/codon/)
+- [The Genetic Codes](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)
 
 ## 1-7
 　核酸の構造と機能  
@@ -213,10 +205,6 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ----------
 # 2018-11-09
 第7回 最終試験・総括 / Final Exam and Summary
-
-----------
-
-[バイオインフォマティクス技術者認定試験](https://www.jsbi.org/nintei/)
 
 ----------
 
