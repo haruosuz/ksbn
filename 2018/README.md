@@ -5,14 +5,12 @@ Keio SFC
 
 # ksbn
 MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160&lang=en)  
-MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25192&ks=B6161&lang=en)  
 基礎分子生物学 3 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160)  
-基礎分子生物学 4 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25192&ks=B6161)  
 
 ## References
 **参考文献**
 - [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
-- [Essential細胞生物学（原書第4版）: 教科書／南江堂](http://www.nankodo.co.jp/g/g9784524261994/)
+- [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
 
 ## Class Schedule & Materials
 **講義日程と資料**
@@ -30,6 +28,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ----------
 [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
+
+![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
 
 第1章　生命科学
 
