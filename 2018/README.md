@@ -3,7 +3,7 @@ Keio SFC
 2018年度 秋学期 金曜日４時限
 教室 [Ω12](http://classroom.sfc.keio.ac.jp/class/w-to/w-12.html)  
 
-# ksbn
+# 2018
 MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160&lang=en)  
 基礎分子生物学 3 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160)  
 
@@ -91,6 +91,11 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　転写  
 　　ゲノムDNA からのさまざまなRNAの合成
 - Keyword RNA，転写調節，スプライシング，遺伝子発現，マイクロ RNA
+図 1.転写とスプライシング
+≫転写
+≫ RNA のプロセシング
+≫転写因子
+≫その他の遺伝子発現機構
 
 ## 1-6
 　翻訳  
@@ -163,10 +168,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　　生物ゲノムのサイズと遺伝子地図
 - Keyword ゲノム，ゲノムサイズ，遺伝子重複，反復配列，遺伝子地図
 
-- [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
-- [GenomeBentoProject - TogoWiki](http://wiki.lifesciencedb.jp/mw/GenomeBentoProject)
-
-![http://togotv.dbcls.jp/togopic.2013.18.html](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201306_genome_bento.png)
+[Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
 
 ## 1-16
 　ヒトゲノム  
