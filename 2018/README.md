@@ -205,7 +205,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - P420: 糖と脂肪の分解と利用
   - P439: 代謝の調節
 
-![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
+![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/400px-Ja-CellRespiration.svg.png)
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
