@@ -210,8 +210,10 @@ KEGG PATHWAY:
 [Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
 [Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
 
-[http://www.g-language.org/data/marray/](http://www.g-language.org/data/marray/00010-thumb.png)
-[http://www.g-language.org/data/marray/](http://www.g-language.org/data/marray/00020-thumb.png)
+![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
+
+![http://www.g-language.org/data/marray/](http://www.g-language.org/data/marray/00010-thumb.png)
+![http://www.g-language.org/data/marray/](http://www.g-language.org/data/marray/00020-thumb.png)
 
 ----------
 # 2018-10-19
