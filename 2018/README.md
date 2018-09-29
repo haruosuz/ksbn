@@ -199,21 +199,15 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　免疫と代謝  
 　　抗体による免疫・生体内物質の代謝パスウェイ
 - Keyword 抗体，体液性免疫，細胞性免疫，代謝，ATP
-  - 図 3.ATP の構造
-  - 図 4.解糖系，クエン酸回路，電子伝達系の模式図
+  - 図 3.[ATP](https://ja.wikipedia.org/wiki/アデノシン三リン酸) の構造
+  - 図 4.[解糖系](https://ja.wikipedia.org/wiki/解糖系)，[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路)，[電子伝達系](https://ja.wikipedia.org/wiki/電子伝達系)の模式図
 - ECB: 13　細胞が食物からエネルギーを得るしくみ
   - P420: 糖と脂肪の分解と利用
   - P439: 代謝の調節
 
-KEGG PATHWAY: 
-[Metabolic pathways](https://www.genome.jp/kegg/pathway/map/map01100.html)
-[Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
-[Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-
 ![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
 
-![http://www.g-language.org/data/marray/](http://www.g-language.org/data/marray/00010-thumb.png)
-![http://www.g-language.org/data/marray/](http://www.g-language.org/data/marray/00020-thumb.png)
+[KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
 ----------
 # 2018-10-19
