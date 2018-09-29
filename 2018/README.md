@@ -106,9 +106,9 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - 細胞分裂の過程は，細胞が分裂を始めてから終了するまでの分裂期〔M(mitosis)期〕と，分裂終了から次の分裂開始までの間期に分けられている。間期はさらに，DNA の複製が行なわれる合成期〔S (synthesis)期〕と，DNA 合成の準備期間である G1 期 (Gap)と分裂の準備期間である G2 期に分けられており，図 1 に示すように，M 期，G1 期，S 期，G2 期を経て再度 M 期に入る細胞分裂の過程を細胞周期という。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 18　細胞周期
-  - P604: 細胞周期の概要
+    - P604: 細胞周期の概要
   - 19　有性生殖と遺伝学の力
-  - P648: 減数分裂と受精
+    - P648: 減数分裂と受精
 
 ## 1-4
 　DNA の複製  
@@ -117,7 +117,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - DNA は遺伝子の本体であるため，すべての細胞に受け継がれるためには細胞分裂に先立って複製される必要がある。真核細胞のDNA の複製は，細胞周期の S 期にのみ起こる。2 本の DNA 鎖がそれぞれを鋳型として複製され，元の鎖と新しい鎖の組合せと なる半保存的複製が行なわれる。複製は複製開始点から始まり両方向に進むが，DNA ポリメラーゼによる DNA 鎖の合成は一方 向であるため，リーディング鎖では連続的に進行し，ラギング鎖では不連続的複製となる。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 6　DNAの複製，修復，組換え
-  - P198: DNA複製
+    - P198: DNA複製
 
 ----------
 # 2018-10-05
@@ -226,6 +226,8 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 ![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
+
+[Polynucleobacter necessarius, a model for genome reduction in both free-living and symbiotic bacteria.](https://www.ncbi.nlm.nih.gov/pubmed/24167248)
 
 ----------
 # 2018-10-19
