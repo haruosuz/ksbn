@@ -164,14 +164,14 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　　20種類の生体アミノ酸の構造と性質
 - Keyword α– アミノ酸，アミノ基，カルボキシ基，側鎖，光学異性体
 - アミノ酸とは，アミノ基(−NH2)とカルボキシ基(−COOH)の両方の官能基を同一分子内にもつ化合物の総称である。この 2 つの官能基が同一の炭素原子(α炭素:Cα)に結合しているものをα–アミノ酸といい，生体でおもに利用されるものは 20 種類 ある。これらのα–アミノ酸はそれぞれ異なる側鎖構造をもっており，親水性・疎水性，塩基性・酸性などの性質に分けられる。
-  - 図 1.L–α–[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸)の化学式
-  - 図 2.[タンパク質を構成する 20 種類のα–アミノ酸](https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸)
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 2　細胞の化学成分
     - P: パネル2-5　タンパク質を構成する20種類のアミノ酸
 
+[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸)  
 ![https://ja.wikipedia.org/wiki/アミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AminoAcidball.svg/300px-AminoAcidball.svg.png)
 
+[タンパク質を構成するアミノ酸](https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸)  
 ![https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Molecular_structures_of_the_21_proteinogenic_amino_acids.svg/500px-Molecular_structures_of_the_21_proteinogenic_amino_acids.svg.png)
 
 ----------
@@ -195,7 +195,6 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　　生体膜の構造と膜タンパク質の機能
 - Keyword 脂質二重層，生体膜，膜タンパク質，細胞接着
 - ヒトは約 270 種類，60 兆個の細胞でできており，これらすべての細胞は脂質二重層の細胞膜(生体膜)によって包まれている。 この細胞膜によって，細胞の内側と外界とを隔絶でき，細胞内部の環境が維持される。さらに真核生物の細胞内には，同様に脂 質二重層の膜で区画されたミトコンドリアや小胞体などの細胞内小器官(オルガネラ)がある。生体膜には膜タンパク質が埋め 込まれており，細胞にとって必要あるいは不必要な物質の選択的な輸送を担っている。多細胞生物では細胞どうしの接着や，細 胞と細胞外基質との接着によって組織が構成されている。
-  - 図 1.脂質(左)と[脂質二重層](https://ja.wikipedia.org/wiki/脂質二重層)の膜(右)の構造
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 11　膜の構造
     - P360: 脂質二重層
