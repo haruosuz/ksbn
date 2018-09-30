@@ -171,8 +171,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
     - P: パネル2-5　タンパク質を構成する20種類のアミノ酸
 
 ![https://ja.wikipedia.org/wiki/アミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AminoAcidball.svg/300px-AminoAcidball.svg.png)
-
-![https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Molecular_structures_of_the_21_proteinogenic_amino_acids.svg/400px-Molecular_structures_of_the_21_proteinogenic_amino_acids.svg.png)
+![https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Molecular_structures_of_the_21_proteinogenic_amino_acids.svg/500px-Molecular_structures_of_the_21_proteinogenic_amino_acids.svg.png)
 
 ----------
 # 2018-10-12
