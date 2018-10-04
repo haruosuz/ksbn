@@ -1,7 +1,7 @@
 Keio SFC 
 2018 Fall Friday 4th Period
 2018年度 秋学期 金曜日４時限
-教室 [Ω12](http://classroom.sfc.keio.ac.jp/class/w-to/w-12.html)  
+教室 [Ω22](http://classroom.sfc.keio.ac.jp/class/w-to/w-22.html)  
 
 # 2018
 MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160&lang=en)  
