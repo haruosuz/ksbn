@@ -9,8 +9,11 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ## References
 **参考文献**
-- [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
+  - [正誤表](http://www.keio-up.co.jp/kup/correction/22510.html)
+
+![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
 
 ## Class Schedule & Materials
 **講義日程と資料**
@@ -45,13 +48,6 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [1-20](#1-20) 
 - [2018-11-02](#2018-11-02) 第6回 まとめ「Essential細胞生物学」第11~15章
 - [2018-11-09](#2018-11-09) 第7回 最終試験・総括 / Final Exam and Summary 
-
-----------
-[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/detail_contents.do?goods_id=3064)
-
-![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
-
-第1章　生命科学
 
 ----------
 # 2018-09-28
@@ -127,6 +123,16 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 [1-7](#1-7) 
 [1-8](#1-8) 
 
+[内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
+```
+初版第2刷に以下の誤りがございました。お詫びして訂正いたします。
+
+項目	頁・行	誤	正	補足
+1-5 転写	19・右段1	DNA結合モチーフをもつ	DNA結合モチーフ)をもつ	　
+1-7 核酸の構造と機能	23・左段15	アミノ酸に分解され	ヌクレオチドに分解され	　
+1-7 核酸の構造と機能	図1	ヌクレオシド(リン酸+五炭糖)	糖リン酸骨格(リン酸+五炭糖)　 ヌクレオシド(五炭糖+塩基)	正しい図はこちら
+```
+
 ## 1-5
 　転写  
 　　ゲノムDNA からのさまざまなRNAの合成
@@ -154,7 +160,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 　核酸の構造と機能  
 　　DNAとRNA の構造と機能
 - Keyword DNA，二重らせん，mRNA，tRNA，rRNA
-- 生物の存続には，種の特徴が情報として次世代へ受け継がれていくことが必要である。種として生きるために必要な情報は遺伝 子として蓄積され，生殖細胞を通して親から子へ世代を越えて遺伝する。DNA(核酸)がこの遺伝情報を保持していることは今 ではよく知られている。ノーベル生理学・医学賞を受賞した DNA の二重らせん構造の発見により，比較的単純な化学構造をも った DNA が遺伝情報を保持する媒体に必要な性質をすべて備えていることが示された。二重らせん構造に基づく洗練された DNA 複製機構は，膨大な量の遺伝情報を正確に母細胞から娘細胞へ遺伝することができる。
+- 「DNA 鎖は，ヌクレオチドがリン酸を介した(a)結合によって連結し高分子を形成している。遺伝情報は，DNA 鎖 に結合した塩基の並びによって保持されている。この塩基には 4 種類あり，A(アデニン)と T(チミン)の塩基は(b)本， G(グアニン)と C(シトシン)の塩基は(c)本の(d)結合を形成し 2 本の DNA 鎖による二重らせん構造を維持している。」
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 2　細胞の化学成分
     - P: パネル2-6　ヌクレオチドについて
