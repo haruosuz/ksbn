@@ -51,7 +51,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ----------
 # 2018-09-28
-第1回「バイオインフォマティクス入門」第1章 生命科学 
+第1回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
 [1-1](#1-1) 
 [1-2](#1-2) 
 [1-3](#1-3) 
@@ -117,7 +117,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 ----------
 # 2018-10-05
-第2回「バイオインフォマティクス入門」第1章 生命科学 
+第2回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
 [1-5](#1-5) 
 [1-6](#1-6) 
 [1-7](#1-7) 
@@ -182,7 +182,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 ----------
 # 2018-10-12
-第3回「バイオインフォマティクス入門」第1章 生命科学 
+第3回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
 [1-9](#1-9) 
 [1-10](#1-10) 
 [1-11](#1-11) 
@@ -242,7 +242,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 ----------
 # 2018-10-19
-第4回「バイオインフォマティクス入門」第1章 生命科学 
+第4回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
 [1-13](#1-13) 
 [1-14](#1-14) 
 [1-15](#1-15) 
@@ -282,7 +282,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 ----------
 # 2018-10-26
-第5回「バイオインフォマティクス入門」第1章 生命科学 
+第5回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
 [1-17](#1-17) 
 [1-18](#1-18) 
 [1-19](#1-19) 
