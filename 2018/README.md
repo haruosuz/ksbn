@@ -140,6 +140,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - DNA がもっている遺伝情報は 4 種類の塩基の配列に保存されていて，DNA 複製によって受け継がれる。また，この配列が RNA に転写され，その遺伝暗号がアミノ酸の配列情報に翻訳されてタンパク質が生合成される。この情報の流れをセントラルド グマ(分子生物学の中心原理)という。遺伝情報はすべての細胞で共通だが，そのうちどの部分の情報をどのくらいの量で転写 しタンパク質を合成するかは，各組織によってあるいはその生理状態によって異なるため，複雑な遺伝子発現調節機構が存在する。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 7　DNAからタンパク質へ－細胞がゲノムを読み取るしくみ
+    - P224: DNA から RNA へ
   - 8　遺伝子発現の調節
 
 ## 1-6
@@ -149,6 +150,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - DNA から mRNA に写し取られた遺伝情報は，コドンとよばれる 3 つずつの塩基配列がアミノ酸の種類を指定する(コードする という)ことでアミノ酸配列情報に変換される。これを翻訳という。鋳型となる mRNA 上のコドンはリボソーム内で相補的なア ンチコドンをもつ tRNA によって読み取られ，tRNA が運んでくるアミノ酸が順次結合してタンパク質が合成される。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 7　DNAからタンパク質へ－細胞がゲノムを読み取るしくみ
+    - P224: RNA から タンパク質 へ
 
 [The Genetic Codes](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)
 
@@ -163,7 +165,10 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - 「DNA 鎖は，ヌクレオチドがリン酸を介した(a)結合によって連結し高分子を形成している。遺伝情報は，DNA 鎖 に結合した塩基の並びによって保持されている。この塩基には 4 種類あり，A(アデニン)と T(チミン)の塩基は(b)本， G(グアニン)と C(シトシン)の塩基は(c)本の(d)結合を形成し 2 本の DNA 鎖による二重らせん構造を維持している。」
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 2　細胞の化学成分
-    - P: パネル2-6　ヌクレオチドについて
+    - P56: ヌクレオチドは DNA と RNA の構成単位である
+    - P76: パネル2-6　ヌクレオチドについて
+  - 7　DNAからタンパク質へ－細胞がゲノムを読み取るしくみ
+    - P225: 図7-3 RNA の構造は DNA と少しだけ違う。
 
 ## 1-8
 　アミノ酸の構造と性質  
@@ -172,7 +177,8 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - アミノ酸とは，アミノ基(−NH2)とカルボキシ基(−COOH)の両方の官能基を同一分子内にもつ化合物の総称である。この 2 つの官能基が同一の炭素原子(α炭素:Cα)に結合しているものをα–アミノ酸といい，生体でおもに利用されるものは 20 種類 ある。これらのα–アミノ酸はそれぞれ異なる側鎖構造をもっており，親水性・疎水性，塩基性・酸性などの性質に分けられる。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 2　細胞の化学成分
-    - P: パネル2-5　タンパク質を構成する20種類のアミノ酸
+    - P55: アミノ酸はタンパク質の構成単位である
+    - P74: パネル2-5　タンパク質を構成する20種類のアミノ酸
 
 [α-アミノ酸の一般構造式](https://ja.wikipedia.org/wiki/アミノ酸)  
 ![https://ja.wikipedia.org/wiki/アミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AminoAcidball.svg/300px-AminoAcidball.svg.png)
