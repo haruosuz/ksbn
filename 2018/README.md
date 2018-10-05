@@ -133,7 +133,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 [DNA複製](https://ja.wikipedia.org/wiki/DNA複製)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/100px-DNA_replication_split.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/150px-DNA_replication_split.svg.png)
 ![](https://upload.wikimedia.org/wikipedia/commons/9/93/Dnareplication.png)
 
 ----------
