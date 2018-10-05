@@ -197,6 +197,12 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
   - 7　DNAからタンパク質へ－細胞がゲノムを読み取るしくみ
     - P225: 図7-3 RNA の構造は DNA と少しだけ違う。
 
+[図 1. DNA と RNA の構成単位](http://www.keio-up.co.jp/kup/correction/22510_1-7-1.pdf)
+
+[相補的塩基対：AとT、GとCが水素結合でつながる。](https://ja.wikipedia.org/wiki/デオキシリボ核酸)
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1d/AGCT_DNA_mini.png)
+
 ## 1-8
 　アミノ酸の構造と性質  
 　　20種類の生体アミノ酸の構造と性質
