@@ -118,6 +118,10 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - 19　有性生殖と遺伝学の力
     - P648: 減数分裂と受精
 
+[細胞周期](https://ja.wikipedia.org/wiki/細胞周期)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cellcycle.png/300px-Cellcycle.png)
+
 ## 1-4
 　DNA の複製  
 　　ゲノムDNA の半保存的複製
@@ -126,6 +130,12 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 6　DNAの複製，修復，組換え
     - P198: DNA複製
+
+[DNA複製](https://ja.wikipedia.org/wiki/DNA複製)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DNA_replication_split.svg/200px-DNA_replication_split.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/9/93/Dnareplication.png)
+
 
 ----------
 # 2018-10-05
@@ -177,13 +187,11 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [The Genetic Codes](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)
 
-[Codon Usage Database](https://www.kazusa.or.jp/codon/)
-
-[遺伝暗号(コドン）使用の種による多様性](https://www.nig.ac.jp/museum/evolution/04.html)
-
 [Genetic code and general codon–anticodon recognition rules for tRNA genes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521650/figure/gkh834f1/)
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521650/bin/gkh834f1.jpg)
+
+[遺伝暗号(コドン）使用の種による多様性](https://www.nig.ac.jp/museum/evolution/04.html)
 
 ## 1-7
 　核酸の構造と機能  
