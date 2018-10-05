@@ -124,7 +124,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 [細胞周期](https://ja.wikipedia.org/wiki/細胞周期)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cellcycle.png/300px-Cellcycle.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cellcycle.png/100px-Cellcycle.png)
 
 ## 1-4
 　DNA の複製  
@@ -173,11 +173,11 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 DNAを挟み込むように結合するロイシンジッパー（青色）。
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leucine_zipper.png/200px-Leucine_zipper.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leucine_zipper.png/100px-Leucine_zipper.png)
 
 3つのジンクフィンガーを持つ転写因子（青色）が、DNA（橙色）に結合している。
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zinc_finger_DNA_complex.png/200px-Zinc_finger_DNA_complex.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zinc_finger_DNA_complex.png/100px-Zinc_finger_DNA_complex.png)
 
 ## 1-6
 　翻訳  
