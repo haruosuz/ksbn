@@ -124,7 +124,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 [細胞周期](https://ja.wikipedia.org/wiki/細胞周期)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cellcycle.png/100px-Cellcycle.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cellcycle.png/200px-Cellcycle.png)
 
 ## 1-4
 　DNA の複製  
