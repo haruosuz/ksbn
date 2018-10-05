@@ -155,6 +155,17 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
     - P224: DNA から RNA へ
   - 8　遺伝子発現の調節
 
+[転写因子](https://ja.wikipedia.org/wiki/転写因子)
+
+
+DNAを挟み込むように結合するロイシンジッパー（青色）。
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leucine_zipper.png/200px-Leucine_zipper.png)
+
+3つのジンクフィンガーを持つ転写因子（青色）が、DNA（橙色）に結合している。
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zinc_finger_DNA_complex.png/200px-Zinc_finger_DNA_complex.png)
+
 ## 1-6
 　翻訳  
 　　タンパク質の生合成
