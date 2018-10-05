@@ -173,7 +173,7 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
 
 DNAを挟み込むように結合するロイシンジッパー（青色）。
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leucine_zipper.png/100px-Leucine_zipper.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leucine_zipper.png/150px-Leucine_zipper.png)
 
 3つのジンクフィンガーを持つ転写因子（青色）が、DNA（橙色）に結合している。
 
@@ -225,7 +225,7 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
     - P74: パネル2-5　タンパク質を構成する20種類のアミノ酸
 
 [α-アミノ酸の一般構造式](https://ja.wikipedia.org/wiki/アミノ酸)  
-![https://ja.wikipedia.org/wiki/アミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AminoAcidball.svg/300px-AminoAcidball.svg.png)
+![https://ja.wikipedia.org/wiki/アミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AminoAcidball.svg/200px-AminoAcidball.svg.png)
 
 [タンパク質を構成するアミノ酸](https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸)  
 ![https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Molecular_structures_of_the_21_proteinogenic_amino_acids.svg/500px-Molecular_structures_of_the_21_proteinogenic_amino_acids.svg.png)
