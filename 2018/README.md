@@ -181,6 +181,10 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [遺伝暗号(コドン）使用の種による多様性](https://www.nig.ac.jp/museum/evolution/04.html)
 
+[Genetic code and general codon–anticodon recognition rules for tRNA genes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521650/figure/gkh834f1/)
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521650/bin/gkh834f1.jpg)
+
 ## 1-7
 　核酸の構造と機能  
 　　DNAとRNA の構造と機能
