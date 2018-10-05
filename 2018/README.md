@@ -177,7 +177,7 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 3つのジンクフィンガーを持つ転写因子（青色）が、DNA（橙色）に結合している。
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zinc_finger_DNA_complex.png/100px-Zinc_finger_DNA_complex.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zinc_finger_DNA_complex.png/200px-Zinc_finger_DNA_complex.png)
 
 ## 1-6
 　翻訳  
