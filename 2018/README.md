@@ -20,7 +20,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 [2018年度秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf)
 
-2018年度秋学期 金曜日４時限（Ω12）基礎分子生物学３【学期前半】 
+2018年度秋学期 金曜日４時限（Ω22）基礎分子生物学３【学期前半】 
 - [2018-09-28](#2018-09-28) 第1回「バイオインフォマティクス入門」第1章 生命科学 
 [1-1](#1-1) 
 [1-2](#1-2) 
@@ -49,8 +49,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [2018-11-02](#2018-11-02) 第6回 まとめ「Essential細胞生物学」第11~15章
 - [2018-11-09](#2018-11-09) 第7回 最終試験・総括 / Final Exam and Summary 
 
-
-2018年度秋学期 金曜日４時限（Ω12）基礎分子生物学４【学期後半】
+2018年度秋学期 金曜日４時限（Ω22）基礎分子生物学４【学期後半】
 - 2018-11-16 第1回「バイオインフォマティクス入門」第2章 計算科学
 - 2018-11-23 勤労感謝の日
 - 2018-11-30 第2回「バイオインフォマティクス入門」第3章 配列解析
@@ -190,10 +189,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [The Genetic Codes](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)
 
-[Genetic code and general codon–anticodon recognition rules for tRNA genes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521650/figure/gkh834f1/)
-
-![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC521650/bin/gkh834f1.jpg)
-
 [遺伝暗号(コドン）使用の種による多様性](https://www.nig.ac.jp/museum/evolution/04.html)
 
 ## 1-7
@@ -228,7 +223,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 ![https://ja.wikipedia.org/wiki/アミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AminoAcidball.svg/300px-AminoAcidball.svg.png)
 
 [タンパク質を構成するアミノ酸](https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸)  
-![https://ja.wikipedia.org/wiki/タンパク質を構成するアミノ酸](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Molecular_structures_of_the_21_proteinogenic_amino_acids.svg/500px-Molecular_structures_of_the_21_proteinogenic_amino_acids.svg.png)
 
 ----------
 # 2018-10-12
@@ -287,8 +281,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 ![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
-
-[Polynucleobacter necessarius, a model for genome reduction in both free-living and symbiotic bacteria.](https://www.ncbi.nlm.nih.gov/pubmed/24167248)
 
 ----------
 # 2018-10-19
