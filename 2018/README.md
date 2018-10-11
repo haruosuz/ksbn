@@ -249,13 +249,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [ペプチド結合](https://ja.wikipedia.org/wiki/ペプチド結合)  
 ![https://ja.wikipedia.org/wiki/ペプチド結合](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peptidformationball.svg/300px-Peptidformationball.svg.png)
 
-[二次構造](https://ja.wikipedia.org/wiki/二次構造)  
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AlphaHelixProtein_fr.jpg/200px-AlphaHelixProtein_fr.jpg)
-
-[四次構造](https://ja.wikipedia.org/wiki/四次構造)  
-[ヘモグロビン](https://ja.wikipedia.org/wiki/ヘモグロビン)  
-![](https://upload.wikimedia.org/wikipedia/commons/1/19/Hemoglobin.jpg)
-
 ## 1-10
 　生体膜と膜タンパク質  
 　　生体膜の構造と膜タンパク質の機能
@@ -317,12 +310,10 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
     - P439: 代謝の調節
 
 [AMP](https://ja.wikipedia.org/wiki/アデニル酸) Adenosine monophosphate  
-[ATP](https://ja.wikipedia.org/wiki/アデノシン二リン酸) Adenosine diphosphate  
+[ADP](https://ja.wikipedia.org/wiki/アデノシン二リン酸) Adenosine diphosphate  
 [ATP](https://ja.wikipedia.org/wiki/アデノシン三リン酸) Adenosine triphosphate  
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/260px-Adenosintriphosphat_protoniert.svg.png)
-
-![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
