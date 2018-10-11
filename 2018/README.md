@@ -250,15 +250,21 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - Keyword 一次構造，二次構造，三次構造，四次構造，フォールディング
 - DNA の情報は mRNA に転写され，α–アミノ酸がペプチド結合によって連なったポリペプチド鎖へと翻訳される。このポリペ プチド鎖上のアミノ酸の配列を一次構造という。ポリペプチド鎖は局所的にαヘリックスやβシートなどの二次構造を形成する。 二次構造の形成を含めて，ポリペプチド鎖全体の折りたたみ(フォールディング)が進行し，安定な固有の三次構造(立体構造) を形成する。さらに，他のタンパク質と相互作用することで複合体(多量体)を形成する。これを四次構造という。ポリペプチ ド鎖が正しく固有の構造に折りたたまれることで，タンパク質は機能することができる。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+  - 2　細胞の化学成分
+    - P78: パネル2-7　非共有結合の基本型
   - 4　タンパク質の構造と機能
     - P123: タンパク質の形と構造
       - P127: [シャペロン](https://ja.wikipedia.org/wiki/シャペロン)タンパク
-  - 2　細胞の化学成分
-    - P78: パネル2-7　非共有結合の基本型
 
-[ペプチド結合](https://ja.wikipedia.org/wiki/ペプチド結合)
-
+[ペプチド結合](https://ja.wikipedia.org/wiki/ペプチド結合)  
 ![https://ja.wikipedia.org/wiki/ペプチド結合](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peptidformationball.svg/300px-Peptidformationball.svg.png)
+
+[二次構造](https://ja.wikipedia.org/wiki/二次構造)  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AlphaHelixProtein_fr.jpg/200px-AlphaHelixProtein_fr.jpg)
+
+[四次構造](https://ja.wikipedia.org/wiki/四次構造)  
+[ヘモグロビン](https://ja.wikipedia.org/wiki/ヘモグロビン)  
+![](https://upload.wikimedia.org/wikipedia/commons/1/19/Hemoglobin.jpg)
 
 ## 1-10
 　生体膜と膜タンパク質  
@@ -278,25 +284,59 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [人体の細胞数はおよそ37兆個](https://www.hokudai-rbp.jp/kitarepo/890/)
 [An estimation of the number of cells in the human body.](https://www.ncbi.nlm.nih.gov/pubmed/23829164)
 
+[内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
+```
+項目	頁・行	誤	正	補足
+1-10  生体膜と膜タンパク質	29・右段7	貫通型膜タンパク質	膜貫通型タンパク質	 
+```
+
 ## 1-11
 　翻訳後修飾  
 　　タンパク質の翻訳後修飾とその役割
 - Keyword 翻訳後修飾，糖鎖修飾，リン酸化，ユビキチン化，メチル化
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 4　タンパク質の構造と機能
+    - P150: タンパク質を調節するしくみ
+      - P152: [リン酸化](https://ja.wikipedia.org/wiki/リン酸化)
   - 7　DNAからタンパク質へ－細胞がゲノムを読み取るしくみ
+    - P224: RNA から タンパク質 へ
+      - P252: 翻訳後修飾
+  - 15　細胞内区画とタンパク質の輸送
+    - P492: タンパク質の選別
+      - P494: シグナル配列がタンパク質を適切な区画へ誘導する
+    - P507: 分泌経路
+      - P508: 糖鎖付加
+
+[キナーゼ](https://ja.wikipedia.org/wiki/キナーゼ) Kinase リン酸化酵素  
+[ホスファターゼ](https://ja.wikipedia.org/wiki/ホスファターゼ) Phosphatase 脱リン酸化酵素  
+
+[内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
+```
+項目	頁・行	誤	正	補足 
+1-11  翻訳後修飾	31・練習問題解説8	正電荷(...)を持つ酸性の	正電荷(...)を持つ塩基性の	 
+```
 
 ## 1-12
 　免疫と代謝  
 　　抗体による免疫・生体内物質の代謝パスウェイ
 - Keyword 抗体，体液性免疫，細胞性免疫，代謝，ATP
-- 生命体を維持し，生命活動をつづけるためには， つねにエネルギーが必要である。このエネルギーを生み出すしくみや，産生したエネルギーを用いて細胞，体，DNA などをつく っていくしくみなど，生体におけるすべての化学反応を代謝といい，おもにタンパク質である酵素がその反応を担っている。
-  - 図 3.[ATP](https://ja.wikipedia.org/wiki/アデノシン三リン酸) の構造
+- 生命体を維持し，生命活動をつづけるためには，つねにエネルギーが必要である。このエネルギーを生み出すしくみや，産生したエネルギーを用いて細胞，体，DNA などをつくっていくしくみなど，生体におけるすべての化学反応を代謝といい，おもにタンパク質である酵素がその反応を担っている。
+  - 図 3.ATPの構造
   - 図 4.[解糖系](https://ja.wikipedia.org/wiki/解糖系)，[クエン酸回路](https://ja.wikipedia.org/wiki/クエン酸回路)，[電子伝達系](https://ja.wikipedia.org/wiki/電子伝達系)の模式図
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 13　細胞が食物からエネルギーを得るしくみ
     - P420: 糖と脂肪の分解と利用
     - P439: 代謝の調節
+
+[AMP](https://ja.wikipedia.org/wiki/アデニル酸) Adenosine monophosphate  
+[ATP](https://ja.wikipedia.org/wiki/アデノシン二リン酸) Adenosine diphosphate  
+[ATP](https://ja.wikipedia.org/wiki/アデノシン三リン酸) Adenosine triphosphate  
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/260px-Adenosintriphosphat_protoniert.svg.png)
+
+![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
+
+[KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
 [内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
 ```
@@ -305,10 +345,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 ```
 
 [1 kcal = 4.184 kJ](https://ja.wikipedia.org/wiki/カロリー)
-
-![https://ja.wikipedia.org/wiki/解糖系](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ja-CellRespiration.svg/500px-Ja-CellRespiration.svg.png)
-
-[KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
 ----------
 # 2018-10-19
