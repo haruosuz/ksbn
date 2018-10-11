@@ -252,6 +252,13 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 4　タンパク質の構造と機能
     - P123: タンパク質の形と構造
+      - P127: [シャペロン](https://ja.wikipedia.org/wiki/シャペロン)タンパク
+  - 2　細胞の化学成分
+    - P78: パネル2-7　非共有結合の基本型
+
+[ペプチド結合](https://ja.wikipedia.org/wiki/ペプチド結合)
+
+![https://ja.wikipedia.org/wiki/ペプチド結合](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peptidformationball.svg/300px-Peptidformationball.svg.png)
 
 ## 1-10
 　生体膜と膜タンパク質  
