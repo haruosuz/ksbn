@@ -234,6 +234,7 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 1-11  翻訳後修飾	31・練習問題解説8	正電荷(...)を持つ酸性の	正電荷(...)を持つ塩基性の	 
 1-12  免疫と代謝	33・練習問題解説2,3,5	kcal/mol	kJ/mol	　
 ```
+[1 kcal = 4.184 kJ](https://ja.wikipedia.org/wiki/カロリー)
 
 ## 1-9
 　タンパク質の階層構造  
@@ -266,12 +267,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [人体の細胞数はおよそ37兆個](https://www.hokudai-rbp.jp/kitarepo/890/)
 [An estimation of the number of cells in the human body.](https://www.ncbi.nlm.nih.gov/pubmed/23829164)
 
-[内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
-```
-項目	頁・行	誤	正	補足
-1-10  生体膜と膜タンパク質	29・右段7	貫通型膜タンパク質	膜貫通型タンパク質	 
-```
-
 ## 1-11
 　翻訳後修飾  
 　　タンパク質の翻訳後修飾とその役割
@@ -292,12 +287,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [キナーゼ](https://ja.wikipedia.org/wiki/キナーゼ) Kinase リン酸化酵素  
 [ホスファターゼ](https://ja.wikipedia.org/wiki/ホスファターゼ) Phosphatase 脱リン酸化酵素  
 
-[内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
-```
-項目	頁・行	誤	正	補足 
-1-11  翻訳後修飾	31・練習問題解説8	正電荷(...)を持つ酸性の	正電荷(...)を持つ塩基性の	 
-```
-
 ## 1-12
 　免疫と代謝  
 　　抗体による免疫・生体内物質の代謝パスウェイ
@@ -316,14 +305,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/260px-Adenosintriphosphat_protoniert.svg.png)
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
-
-[内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
-```
-項目	頁・行	誤	正	補足	 
-1-12  免疫と代謝	33・練習問題解説2,3,5	kcal/mol	kJ/mol	　
-```
-
-[1 kcal = 4.184 kJ](https://ja.wikipedia.org/wiki/カロリー)
 
 ----------
 # 2018-10-19
