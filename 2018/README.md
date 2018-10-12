@@ -36,6 +36,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [1-10](#1-10) 
 [1-11](#1-11) 
 [1-12](#1-12) 
+[ecb-11-12](#ecb-11-12) 
 - [2018-10-19](#2018-10-19) 第4回「バイオインフォマティクス入門」第1章 生命科学 
 [1-13](#1-13) 
 [1-14](#1-14) 
@@ -258,6 +259,9 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
     - P369: 膜タンパク
   - 12　膜を横切る輸送
 
+[親水性](https://ja.wikipedia.org/wiki/親水性) hydrophilic  
+[疎水性](https://ja.wikipedia.org/wiki/疎水性) hydrophobic  
+
 ![https://ja.wikipedia.org/wiki/ファイル:リン脂質二重層膜の基本構造(byパタ).png](https://upload.wikimedia.org/wikipedia/commons/e/e7/リン脂質二重層膜の基本構造%28byパタ%29.png)
 
 [日本語TED新着: 細胞膜は想像以上にずっと複雑 — ナジー・パクプー](http://www.ted-ja.com/2017/09/xi-bao-mo-haxiang-xiang-yi-shang.html)
@@ -304,7 +308,7 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
-## ecb
+## ecb-11-12
 [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
 - 11　膜の構造
   - P360: 脂質二重層
