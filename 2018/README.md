@@ -306,6 +306,17 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 
+## ecb
+[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- 11　膜の構造
+  - P360: 脂質二重層
+  - P369: 膜タンパク
+- 12　膜を横切る輸送
+  - P384: 膜輸送の原理
+  - P389: 輸送体とその機能
+  - P396: イオンチャネルと膜電位
+  - P403: イオンチャネルと神経細胞のシグナル伝達
+
 ----------
 # 2018-10-19
 第4回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
