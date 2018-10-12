@@ -184,6 +184,8 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [The Genetic Codes](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)
 
+![](https://upload.wikimedia.org/wikipedia/commons/2/21/06_chart_pu3.png)
+
 [遺伝暗号(コドン）使用の種による多様性](https://www.nig.ac.jp/museum/evolution/04.html)
 
 ## 1-7
