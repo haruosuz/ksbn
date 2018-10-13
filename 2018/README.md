@@ -101,15 +101,15 @@ Eukaryotes; Prokaryotes (Bacteria & Archaea); Viruses; Plasmids; Organelles
   - 15　細胞内区画とタンパク質の輸送
     - P488: 膜で囲まれた細胞小器官
 
+[細胞小器官](https://ja.wikipedia.org/wiki/細胞小器官)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Biological_cell.svg/200px-Biological_cell.svg.png)
+
 [Genome List - Organelles](https://www.ncbi.nlm.nih.gov/genome/browse/#!/organelles/)
 
 [ミトコンドリアの起源に新説〜日経サイエンス2015年4月号より | 日経サイエンス](http://www.nikkei-science.com/?p=46394)
 
 [葉緑体進化のダイナミズム　小さな藻類の数奇な物語 | 日経サイエンス](http://www.nikkei-science.com/page/magazine/0801/200801_088.html)
-
-[細胞小器官](https://ja.wikipedia.org/wiki/細胞小器官)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Biological_cell.svg/200px-Biological_cell.svg.png)
 
 ## 1-3
 　細胞周期  
@@ -223,6 +223,7 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [1-10](#1-10) 
 [1-11](#1-11) 
 [1-12](#1-12) 
+[ecb-11-12](#ecb-11-12) 
 
 [内容に誤記がございました。正誤表をご覧ください。](http://www.keio-up.co.jp/kup/correction/22510.html)
 ```
@@ -300,9 +301,9 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
     - P420: 糖と脂肪の分解と利用
     - P439: 代謝の調節
 
-[AMP](https://ja.wikipedia.org/wiki/アデニル酸) Adenosine monophosphate  
-[ADP](https://ja.wikipedia.org/wiki/アデノシン二リン酸) Adenosine diphosphate  
-[ATP](https://ja.wikipedia.org/wiki/アデノシン三リン酸) Adenosine triphosphate  
+[ATP](https://ja.wikipedia.org/wiki/アデノシン三リン酸) Adenosine triphosphate アデノシン三リン酸  
+[ADP](https://ja.wikipedia.org/wiki/アデノシン二リン酸) Adenosine diphosphate アデノシン二リン酸  
+[AMP](https://ja.wikipedia.org/wiki/アデニル酸) Adenosine monophosphate アデノシン一リン酸  
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/260px-Adenosintriphosphat_protoniert.svg.png)
 
