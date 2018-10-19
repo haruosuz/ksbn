@@ -374,6 +374,20 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 　ヒトゲノム  
 　　ヒトゲノムの構造と遺伝的多型
 - Keyword ヒトゲノム，染色体，リピート，CpG アイランド，遺伝的多型
+- [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+  - 9　遺伝子とゲノムの進化
+    - P311: ヒトゲノムの解読
+  - 19　有性生殖と遺伝学の力
+    - P667: 実験手段としての遺伝学
+      - P676: 解明への手がかり：SNPを手がかりにヒトの疾患を解明する
+
+[CpG_アイランド](https://ja.wikipedia.org/wiki/CpG_アイランド)
+
+[長い末端反復](https://ja.wikipedia.org/wiki/長い末端反復) (Long terminal repeat, LTR)
+
+[一塩基多型](https://ja.wikipedia.org/wiki/一塩基多型) (SNP : Single Nucleotide Polymorphism)
+
+[ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析)
 
 ## ecb-13-14
 [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
@@ -410,7 +424,7 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 10　現在の組換えDNA技術
     - P339: 遺伝子機能の探求と活用
-    - P344: 解明への手がかり：ヒトゲノム塩基配列の決定
+      - P344: 解明への手がかり：ヒトゲノム塩基配列の決定
 
 ## 1-19
 　分子生物学実験技術  
