@@ -78,7 +78,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - 1　細胞：生命の基本単位
     - P12: 原核細胞
     - P14: 真核細胞
-  - 1　9　遺伝子とゲノムの進化
+  - 9　遺伝子とゲノムの進化
     - P307: トランスポゾンとウイルス
 
 [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
@@ -354,9 +354,11 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 　ゲノムと生物  
 　　生物ゲノムのサイズと遺伝子地図
 - Keyword ゲノム，ゲノムサイズ，遺伝子重複，反復配列，遺伝子地図
+- [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+  - 9　遺伝子とゲノムの進化
+    - P290: 遺伝的変動の生成
 
 [ゲノム](https://ja.wikipedia.org/wiki/ゲノム)  
-    [ゲノムサイズの例](https://ja.wikipedia.org/wiki/ゲノム#ゲノムサイズの例)
 
 [反復配列](https://ja.wikipedia.org/wiki/反復配列)
 
@@ -365,6 +367,8 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [GenomeBentoProject - TogoWiki](http://wiki.lifesciencedb.jp/mw/GenomeBentoProject)
 
 ![http://togotv.dbcls.jp/togopic.2013.18.html](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201306_genome_bento.png)
+
+![https://twitter.com/ZakSwartz/status/982320558338535424](https://pbs.twimg.com/media/DaHnHxkW4AIXBpU.jpg)
 
 ## 1-16
 　ヒトゲノム  
@@ -396,6 +400,8 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - Keyword クローニング，ベクター，プラスミド，制限酵素，PCR
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 10　現在の組換えDNA技術
+    - P330: 細菌を使う DNA クローニング
+    - P335: PCRによる DNA クローニング
 
 ## 1-18
 　ゲノム解析  
@@ -403,7 +409,8 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - Keyword ショットガン法，リファレンス配列，マッピング，cDNA，メタゲノム
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 10　現在の組換えDNA技術
-    - P: 解明への手がかり：ヒトゲノム塩基配列の決定
+    - P339: 遺伝子機能の探求と活用
+    - P344: 解明への手がかり：ヒトゲノム塩基配列の決定
 
 ## 1-19
 　分子生物学実験技術  
@@ -411,15 +418,15 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - Keyword 二次元電気泳動，サザン・ノーザンブロッティング，ウェスタンブロッティング，質量分析，GFP
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 4　タンパク質の構造と機能
-    - P: パネル4-5　電気泳動によるタンパク質の分離
+    - P167: パネル4-5　電気泳動によるタンパク質の分離
 
 ## 1-20
 　タンパク質の立体構造決定  
 　　X線結晶解析法などによるタンパク質の立体構造の解析技術
 - Keyword 立体構造，X 線結晶解析法，核磁気共鳴法，電子顕微鏡法
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
-- ECB: 4　タンパク質の構造と機能
-    - P: 解明への手がかり：タンパク質の構造を精査する
+  - 4　タンパク質の構造と機能
+    - P162: 解明への手がかり：タンパク質の構造を精査する
 
 ----------
 # 2018-11-02
