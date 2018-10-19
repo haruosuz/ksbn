@@ -355,7 +355,10 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 　　生物ゲノムのサイズと遺伝子地図
 - Keyword ゲノム，ゲノムサイズ，遺伝子重複，反復配列，遺伝子地図
 
-[ゲノムサイズの例](https://ja.wikipedia.org/wiki/ゲノム#ゲノムサイズの例)
+[ゲノム](https://ja.wikipedia.org/wiki/ゲノム)  
+  [ゲノムサイズの例](https://ja.wikipedia.org/wiki/ゲノム#ゲノムサイズの例)
+
+[反復配列](https://ja.wikipedia.org/wiki/反復配列)
 
 [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
 
