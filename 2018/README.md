@@ -337,6 +337,8 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
   - 16　細胞のシグナル伝達
     - P526: 細胞間シグナル伝達の一般原理
 
+[細胞の情報伝達機構](http://www.e-kanpo.jp/sigunaru/sigunaru.php)
+
 ## 1-14
 　遺伝  
 　　メンデルの法則による遺伝子の世代間継承
@@ -356,6 +358,10 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [ゲノムサイズの例](https://ja.wikipedia.org/wiki/ゲノム#ゲノムサイズの例)
 
 [Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
+
+[GenomeBentoProject - TogoWiki](http://wiki.lifesciencedb.jp/mw/GenomeBentoProject)
+
+![http://togotv.dbcls.jp/togopic.2013.18.html](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201306_genome_bento.png)
 
 ## 1-16
 　ヒトゲノム  
