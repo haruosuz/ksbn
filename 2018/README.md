@@ -48,6 +48,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [1-18](#1-18) 
 [1-19](#1-19) 
 [1-20](#1-20) 
+[ecb-15](#ecb-15) 
 - [2018-11-02](#2018-11-02) 第6回 まとめ「Essential細胞生物学」第11~15章
 - [2018-11-09](#2018-11-09) 第7回 最終試験・総括 / Final Exam and Summary 
 
@@ -366,10 +367,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 [GenomeBentoProject - TogoWiki](http://wiki.lifesciencedb.jp/mw/GenomeBentoProject)
 
-![http://togotv.dbcls.jp/togopic.2013.18.html](https://dbarchive.biosciencedbc.jp/data/togo-pic/image/201306_genome_bento.png)
-
-![https://twitter.com/ZakSwartz/status/982320558338535424](https://pbs.twimg.com/media/DaHnHxkW4AIXBpU.jpg)
-
 ## 1-16
 　ヒトゲノム  
 　　ヒトゲノムの構造と遺伝的多型
@@ -406,7 +403,8 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [1-17](#1-17) 
 [1-18](#1-18) 
 [1-19](#1-19) 
-[1-20](#1-20)
+[1-20](#1-20) 
+[ecb-15](#ecb-15) 
 
 ## 1-17
 　遺伝子組換え  
@@ -441,6 +439,15 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 4　タンパク質の構造と機能
     - P162: 解明への手がかり：タンパク質の構造を精査する
+
+## ecb-15
+- [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+  - 15　細胞内区画とタンパク質の輸送
+    - P488: 膜で囲まれた細胞小器官
+    - P492: タンパク質の選別
+    - P503: 小胞による輸送
+    - P507: 分泌経路
+    - P515: エンドサイトーシス経路
 
 ----------
 # 2018-11-02
