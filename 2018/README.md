@@ -378,13 +378,13 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
     - P667: 実験手段としての遺伝学
       - P676: 解明への手がかり：SNPを手がかりにヒトの疾患を解明する
 
-[CpG_アイランド](https://ja.wikipedia.org/wiki/CpG_アイランド)
+[CpG アイランド](https://ja.wikipedia.org/wiki/CpG_アイランド)
 
-[長い末端反復](https://ja.wikipedia.org/wiki/長い末端反復) (Long terminal repeat, LTR)
+[長い末端反復](https://ja.wikipedia.org/wiki/長い末端反復) Long terminal repeat (LTR)
 
-[一塩基多型](https://ja.wikipedia.org/wiki/一塩基多型) (SNP : Single Nucleotide Polymorphism)
+[一塩基多型](https://ja.wikipedia.org/wiki/一塩基多型) Single Nucleotide Polymorphism (SNP)
 
-[ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析)
+[ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析) Genome-Wide Association Study (GWAS)
 
 ## ecb-13-14
 [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
@@ -414,6 +414,9 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
   - 10　現在の組換えDNA技術
     - P330: 細菌を使う DNA クローニング
     - P335: PCRによる DNA クローニング
+
+[プラスミド](https://ja.wikipedia.org/wiki/プラスミド)   
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plasmid_%28english%29.svg/320px-Plasmid_%28english%29.svg.png)
 
 ## 1-18
 　ゲノム解析  
