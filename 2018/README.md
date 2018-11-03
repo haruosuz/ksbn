@@ -9,11 +9,12 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ## References
 **参考文献**
-- [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- [Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
 - [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
   - [正誤表](http://www.keio-up.co.jp/kup/correction/22510.html)
 
 ![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
+![](https://d1gwi3e1mfwx7l.cloudfront.net/img/goods/L/9784524261994.jpg)
 
 ## Class Schedule & Materials
 **講義日程と資料**
@@ -47,7 +48,7 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [1-19](#1-19) 
 [1-20](#1-20) 
 - [2018-11-02](#2018-11-02) 第6回 まとめ「Essential細胞生物学」第11~15章
-- [2018-11-09](#2018-11-09) 第7回 最終試験 / Final Exam
+- 2018-11-09 第7回 最終試験 / Final Exam
 
 2018年度秋学期 金曜日４時限（Ω22）基礎分子生物学４【学期後半】
 - 2018-11-16 第1回「バイオインフォマティクス入門」第3章 配列解析 3-1 3-4
