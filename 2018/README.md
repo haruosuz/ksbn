@@ -305,8 +305,6 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adenosintriphosphat_protoniert.svg/260px-Adenosintriphosphat_protoniert.svg.png)
 
-[KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
-
 ----------
 # 2018-10-19
 第4回「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第1章 生命科学 
@@ -339,31 +337,21 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 ## 1-15
 　ゲノムと生物  
 　　生物ゲノムのサイズと遺伝子地図
-- Keyword ゲノム，ゲノムサイズ，遺伝子重複，反復配列，遺伝子地図
+- Keyword [ゲノム](https://ja.wikipedia.org/wiki/ゲノム)，ゲノムサイズ，遺伝子重複，[反復配列](https://ja.wikipedia.org/wiki/反復配列)，遺伝子地図
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 9　遺伝子とゲノムの進化
     - P290: 遺伝的変動の生成
 
-[ゲノム](https://ja.wikipedia.org/wiki/ゲノム)  
-
-[反復配列](https://ja.wikipedia.org/wiki/反復配列)
-
-[Genome List](https://www.ncbi.nlm.nih.gov/genome/browse/)
-
-[GenomeBentoProject - TogoWiki](http://wiki.lifesciencedb.jp/mw/GenomeBentoProject)
-
 ## 1-16
 　ヒトゲノム  
 　　ヒトゲノムの構造と遺伝的多型
-- Keyword ヒトゲノム，染色体，リピート，CpG アイランド，遺伝的多型
+- Keyword ヒトゲノム，染色体，リピート，[CpG アイランド](https://ja.wikipedia.org/wiki/CpG_アイランド)，遺伝的多型
 - [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
   - 9　遺伝子とゲノムの進化
     - P311: ヒトゲノムの解読
   - 19　有性生殖と遺伝学の力
     - P667: 実験手段としての遺伝学
       - P676: 解明への手がかり：SNPを手がかりにヒトの疾患を解明する
-
-[CpG アイランド](https://ja.wikipedia.org/wiki/CpG_アイランド)
 
 [長い末端反復](https://ja.wikipedia.org/wiki/長い末端反復) Long terminal repeat (LTR)
 
