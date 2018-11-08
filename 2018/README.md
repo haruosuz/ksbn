@@ -7,6 +7,9 @@ Keio SFC
 MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160&lang=en)  
 基礎分子生物学 3 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25189&ks=B6160)  
 
+MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25192&ks=B6161&lang=en)  
+基礎分子生物学 4 [シラバス](https://vu.sfc.keio.ac.jp/course2014/summary/syll_view_c.cgi?yc=2018_25192&ks=B6161)  
+
 ## References
 **参考文献**
 - [Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
@@ -51,12 +54,12 @@ MOLECULAR AND CELLULAR BIOLOGY 3 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 2018-11-09 第7回 最終試験 / Final Exam
 
 2018年度秋学期 金曜日４時限（Ω22）基礎分子生物学４【学期後半】
-- 2018-11-16 第1回「バイオインフォマティクス入門」第3章 配列解析 3-1 3-4
+- 2018-11-16 第1回「バイオインフォマティクス入門」第2章 計算科学
 - 2018-11-23 勤労感謝の日
-- 2018-11-30 第2回「バイオインフォマティクス入門」第3章 配列解析 3-5 3-8
-- 2018-12-07 第3回「バイオインフォマティクス入門」第3章 配列解析 3-9 3-12
-- 2018-12-14 第4回「バイオインフォマティクス入門」第5章 遺伝・進化解析 5-1 5-4
-- 2018-12-21 第5回「バイオインフォマティクス入門」第5章 遺伝・進化解析 5-5 5-8
+- 2018-11-30 第2回「バイオインフォマティクス入門」第3章 配列解析
+- 2018-12-07 第3回「バイオインフォマティクス入門」第4章 構造解析
+- 2018-12-14 第4回「バイオインフォマティクス入門」第5章 遺伝・進化解析
+- 2018-12-21 第5回「バイオインフォマティクス入門」第6章 オーミクス解析
 - 2018-12-28 事務室閉室・冬季休校（12/28～1/5） 
 - 2019-01-11 第6回 まとめ「Essential細胞生物学」第16~20章
 - 2019-01-18 第7回 最終試験 / Final Exam
