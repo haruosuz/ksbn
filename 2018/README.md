@@ -24,7 +24,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 [2018年度秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf)
 
-2018年度秋学期 金曜日４時限（Ω22）基礎分子生物学３【学期前半】
+**基礎分子生物学３【学期前半】**
 - [2018-09-28](#2018-09-28) 第1回「バイオインフォマティクス入門」第1章 生命科学 
 [1-1](#1-1) 
 [1-2](#1-2) 
@@ -53,7 +53,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [2018-11-02](#2018-11-02) 第6回 まとめ「Essential細胞生物学」第11~15章
 - 2018-11-09 第7回 最終試験 / Final Exam
 
-2018年度秋学期 金曜日４時限（Ω22）基礎分子生物学４【学期後半】
+**基礎分子生物学４【学期後半】**
 - 2018-11-16 第1回「バイオインフォマティクス入門」第3章 配列解析 
 [3-1](#3-1) 
 [3-2](#3-2) 
@@ -77,8 +77,9 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 2019-01-18 第7回 最終試験 / Final Exam
 
 ----------
+----------
 
-基礎分子生物学３【学期前半】
+# 基礎分子生物学３【学期前半】
 
 ----------
 # 2018-09-28
@@ -512,8 +513,49 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 最終試験 / Final Exam
 
 ----------
+----------
 
-基礎分子生物学４【学期後半】
+# 基礎分子生物学４【学期後半】
+
+----------
+# 2018-11-16
+
+## nintei_28
+BI技術者認定試験
+[平成28年度試験](https://www.jsbi.org/nintei/28/) 
+| [問題](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説](https://www.jsbi.org/pdfs/nintei/H28kaisetsu.pdf)
+
+- 問1
+- 問11
+  - BI p.18: リボソームRNA (rRNA)
+  - BI p.31: ユビキチン化
+  - ECB p.282: マイクロRNA microRNA (miRNA), RNA誘導サイレンシング複合体 RNA induced silencing complex (RISC)
+  - ECB p.284: 長鎖非翻訳RNA long noncoding RNA, Xist
+
+
+----------
+# 2018-11-16
+
+https://www.jsbi.org/nintei/28/
+３．平成２８年度問題と解説
+問題と解答(PDF形式) 
+解説（PDF形式）
+
+| 問題 | 教科書 |
+|:----|:------|
+| 問1 | 1-19 分子生物学実験技術 |
+| 問2 | 1-19 分子生物学実験技術 |
+| 問3 | 1-16 ヒトゲノム |
+| 問4 | 1-18 ゲノム解析 |
+| 問5 | 1-3 細胞周期 |
+| 問6 | ECB P341: サンガー法 |
+| 問7 | 1-6 翻訳 |
+| 問8 | 1-2 細胞内小器官 |
+| 問9 | 1-5 転写 |
+| 問10 | 1-1 原核細胞と真核細胞 |
+| 問11 | 1-5 転写; 1-11 翻訳後修飾 ユビキチン化 |
+| 問12 | 1-17 遺伝子組換え |
 
 ----------
 # 2018-11-16
@@ -524,35 +566,33 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [3-4](#3-4) 
 
 ## 3-1
-　分子生物学データベース
+　分子生物学データベース  
 　　国際的な公共の分子生物学データベース
 - Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
 
-[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース
-
-![](https://www.ddbj.nig.ac.jp/images/center/insdc_shoukai.gif)
+[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
 
 [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)  
 
 [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
-[PRNP - Major prion protein precursor - Homo sapiens (Human) - PRNP gene & protein](https://www.uniprot.org/uniprot/P04156)  
 
 ## 3-2
-　配列アラインメント
+　配列アラインメント  
 　　動的計画法による配列アラインメントの計算
 - Keyword 配列アラインメント，動的計画法，大域的・局所的アラインメント，ペアワイズアラインメント
 
 [シーケンスアラインメント](https://ja.wikipedia.org/wiki/シーケンスアラインメント)  
+
 [ダイナミックプログラミング](https://bio-info.biz/article/ase_dynamic_programming.html)  
 
 ![https://ja.wikipedia.org/wiki/シーケンスアラインメント](https://upload.wikimedia.org/wikipedia/commons/4/4b/Global-local-alignment.png)
 
 ## 3-3
-　スコア行列
+　スコア行列  
 　　アミノ酸の類似性スコアとその統計的評価
 
 ## 3-4
-　高速な類似配列検索
+　高速な類似配列検索  
 　　高速に配列を比較するための計算技術
 
 ----------
@@ -563,16 +603,16 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [3-7](#3-7) 
 [3-8](#3-8)
 
-## 3-5　ホモロジー検索
+## 3-5　ホモロジー検索  
 　　高速にホモロジー検索するためのプログラム
 
-## 3-6　マルチプルアラインメント
+## 3-6　マルチプルアラインメント  
 　　マルチプルアラインメントによる配列の多重比較
 
-## 3-7　モチーフ
+## 3-7　モチーフ  
 　　保存された配列パターン（配列モチーフ）の解析
 
-## 3-8　ゲノムプロジェクトと遺伝子予測
+## 3-8　ゲノムプロジェクトと遺伝子予測  
 　　ゲノム解読と遺伝子予測によるアノテーション
 
 ----------
@@ -584,19 +624,19 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 [3-12](#3-12) 
 
 ## 3-9
-　タンパク質の機能予測
+　タンパク質の機能予測  
 　　タンパク質の生理学的機能の予測
 
 ## 3-10
-　RNA の二次構造予測
+　RNA の二次構造予測  
 　　RNA のもつ二次構造とその予測法
 
 ## 3-11
-　ゲノム特徴抽出
+　ゲノム特徴抽出  
 　　ゲノム配列の塩基組成などに基づく特徴抽出
 
 ## 3-12
-　ゲノム比較
+　ゲノム比較  
 　　ゲノム配列の比較解析とオーソログ解析
 
 ----------
@@ -615,7 +655,39 @@ DNAを挟み込むように結合するロイシンジッパー（青色）。
 
 
 
+
 ----------
+
+
+
+https://www.jsbi.org/nintei/
+Japanese Society for Bioinformatics - JSBi :: バイオインフォマティクス技術者認定試験
+
+https://www.jsbi.org/nintei/29/
+３．平成２９年度問題と解説
+問題と解答(PDF形式)
+解説(PDF形式)
+
+
+https://www.jsbi.org/nintei/27/ 
+３．平成２７年度問題と解説
+問題と解答(PDF形式) 
+解説（PDF型式） 
+
+https://www.jsbi.org/nintei/26/
+３．平成２６年度試験問題＆解答
+問題と解答 1.5MB
+解説集371KB
+
+https://www.jsbi.org/nintei/25/
+３．平成２５年度試験問題＆解答
+問題と解答 11MB
+解説集 287KB
+
+https://www.jsbi.org/nintei/24/
+３．平成２４年度試験問題＆解答
+問題と解答 2.5MB
+解説集 275KB
 
 
 
