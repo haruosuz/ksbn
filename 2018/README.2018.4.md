@@ -41,9 +41,10 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - BI [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
 - ECB [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
 
-## world-antibiotic-awareness-week
+## AMR
 - [World Antibiotic Awareness Week](http://www.who.int/who-campaigns/world-antibiotic-awareness-week)
 - [抗菌薬啓発週間 - SAVE Antibiotics, SAVE Children. 抗菌薬啓発週間](https://antibioticawarenessjp.jimdo.com/)
+- [インフォグラフィックで知る！薬剤耐性（AMR）](http://amr.ncgm.go.jp/infographics/)
 - ECB
   - p.249-250: 抗生物質と原核生物のタンパク合成 (表7-3)
   - p.300: 遺伝子の水平伝播と抗生物質耐性 (図 9-14. 動画 9.1)
@@ -52,10 +53,9 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - BI p.42: プラスミド
 
 ## nintei_28
-BI技術者認定試験
-[平成28年度試験](https://www.jsbi.org/nintei/28/) 
-| [問題](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
-| [解説](https://www.jsbi.org/pdfs/nintei/H28kaisetsu.pdf)
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/pdfs/nintei/H28kaisetsu.pdf) 
 
 - 問1
   - BI p.46: 二次元電気泳動
@@ -100,6 +100,7 @@ BI技術者認定試験
 - 問18
   - BI p.90: 表 1. UCSC Genome Browser
   - [統合TV | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
+    - 2017-11-05 (2:35 - 3:25 / 6:19) [UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/20171105.html)
 - 問19
   - BI p.45: ChIP–Seq; p46: DNA マイクロアレイ
 - 問20
@@ -114,10 +115,9 @@ BI技術者認定試験
 # 2018-11-30
 
 ## nintei_27
-BI技術者認定試験
-[平成27年度試験](https://www.jsbi.org/nintei/27/) 
-| [問題](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
-| [解説](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf)
+[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
 
 ----------
 # 2018-12-01
