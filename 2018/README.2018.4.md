@@ -99,8 +99,9 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - BI p.11: レトロウイルス; p.40: LTR型レトロトランスポゾン
 - 問18
   - BI p.90: 表 1. UCSC Genome Browser
-  - [統合TV | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
-    - 2017-11-05 (2:35 - 3:25 / 6:19) [UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/20171105.html)
+  - [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+    - [統合TV | 関連するタグから検索 | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
+    - 2017-11-05 (2:35 - 3:25 / 6:19) [UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html)
 - 問19
   - BI p.45: ChIP–Seq; p46: DNA マイクロアレイ
 - 問20
@@ -108,7 +109,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 
 - 問41 
   - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
-  - https://togotv.dbcls.jp/
   - https://www.ncbi.nlm.nih.gov/pubmed/
 
 ----------
