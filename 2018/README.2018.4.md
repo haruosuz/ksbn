@@ -93,6 +93,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - BI p.20: 1-6 翻訳; p.24: 1-8 アミノ酸の構造と性質
 - 問15
   - [エピゲノム](http://crest-ihec.jp/public/epigenome_qa.html)
+  - BI p.44-45: エキソーム
+  - [exonの網羅的解析は「exome」です。](https://bio.nikkeibp.co.jp/article/news/20130227/166503/)
 - 問16
   - BI p.16: 1-4 DNAの複製
 - 問17
