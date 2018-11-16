@@ -44,7 +44,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ## world-antibiotic-awareness-week
 - [World Antibiotic Awareness Week](http://www.who.int/who-campaigns/world-antibiotic-awareness-week)
 - [抗菌薬啓発週間 - SAVE Antibiotics, SAVE Children. 抗菌薬啓発週間](https://antibioticawarenessjp.jimdo.com/)
-- [AMR臨床リファレンスセンター (@AMRCRC_JAPAN) | Twitter](https://twitter.com/AMRCRC_JAPAN)
 - ECB
   - p.249-250: 抗生物質と原核生物のタンパク合成 (表7-3)
   - p.300: 遺伝子の水平伝播と抗生物質耐性 (図 9-14. 動画 9.1)
@@ -113,6 +112,21 @@ BI技術者認定試験
 
 ----------
 # 2018-11-30
+
+## nintei_27
+BI技術者認定試験
+[平成27年度試験](https://www.jsbi.org/nintei/27/) 
+| [問題](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf)
+
+----------
+# 2018-12-01
+
+----------
+# 2018-12-07
+
+----------
+# 2018-12-21
 
 ----------
 
