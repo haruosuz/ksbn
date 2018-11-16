@@ -59,7 +59,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 - 問1
   - BI p.46: 二次元電気泳動
-  - ECB p.165: 密度勾配遠心法
+  - ECB p.165: 密度勾配遠心法 (パネル 4-3)
 - 問2
   - BI p.46: 質量分析
 - 問3
@@ -69,7 +69,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 問5
   - BI p.14: 減数分裂
 - 問6
-  - ECB p.341: サンガー法 Sanger method
+  - ECB p.341: サンガー法 Sanger method (図 10-19)
   - [高速シーケンス（NGS）解析｜タカラバイオ株式会社](http://catalog.takara-bio.co.jp/jutaku/basic_info.php?unitid=U100005162)
 - 問7
   - BI p.20: 1-6 翻訳
@@ -82,11 +82,11 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 問11
   - BI p.18: リボソームRNA (rRNA)
   - BI p.31: ユビキチン化
-  - ECB p.282: マイクロRNA microRNA (miRNA), RNA誘導サイレンシング複合体 RNA induced silencing complex (RISC)
+  - ECB p.282: マイクロRNA microRNA (miRNA), RNA誘導サイレンシング複合体 RNA induced silencing complex (RISC) (図8-25)
   - ECB p.284: 長鎖非翻訳RNA long noncoding RNA, Xist
 - 問12
   - BI p.42: 1-17 遺伝子組換え
-  - ECB p.283: 低分子干渉RNA small interfering RNA (siRNA)
+  - ECB p.283: 低分子干渉RNA small interfering RNA (siRNA) (図 8-26)
 - 問13
   - BI p.18: 1-5 転写, キャップ構造, ポリA鎖
 - 問14
