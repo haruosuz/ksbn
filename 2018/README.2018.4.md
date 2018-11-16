@@ -22,10 +22,10 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 [2018年度秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf)
 
 **基礎分子生物学４【学期後半】**
-- [2018-11-16](#2018-11-16) 第1回 [平成28年度試験](#nintei_28)
+- [2018-11-16](#2018-11-16) 第1回 平成28年度試験
 - 2018-11-23 勤労感謝の日
-- [2018-11-30](#2018-11-30) 第2回 TBA
-- 2018-12-01（土）4限【補講】第3回 TBA
+- [2018-11-30](#2018-11-30) 第2回 平成27年度試験
+- 2018-12-01（土曜日）4限【補講】第3回 TBA
 - 2018-12-07 第4回「バイオインフォマティクス入門」第3章 配列解析 
 - 2018-12-14 【休講】
 - 2018-12-21 第5回「バイオインフォマティクス入門」第5章 遺伝・進化解析 
@@ -44,8 +44,13 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ## world-antibiotic-awareness-week
 - [World Antibiotic Awareness Week](http://www.who.int/who-campaigns/world-antibiotic-awareness-week)
 - [抗菌薬啓発週間 - SAVE Antibiotics, SAVE Children. 抗菌薬啓発週間](https://antibioticawarenessjp.jimdo.com/)
+- [AMR臨床リファレンスセンター (@AMRCRC_JAPAN) | Twitter](https://twitter.com/AMRCRC_JAPAN)
+- ECB
+  - p.249-250: 抗生物質と原核生物のタンパク合成 (表7-3)
+  - p.300: 遺伝子の水平伝播と抗生物質耐性 (図 9-14. 動画 9.1)
+  - p.308: 動く遺伝因子と抗生物質耐性 (図 9-25)
+  - p.331-332: 抗生物質耐性をもつプラスミド (図 10-7)
 - BI p.42: プラスミド
-- ECB p.XXX: 
 
 ## nintei_28
 BI技術者認定試験
@@ -97,12 +102,18 @@ BI技術者認定試験
   - BI p.90: 表 1. UCSC Genome Browser
   - [統合TV | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
 - 問19
-  - BI p45: ChIP–Seq; p46: DNA マイクロアレイ
+  - BI p.45: ChIP–Seq; p46: DNA マイクロアレイ
 - 問20
-  - BI p42: PCR(polymerase chain reaction)
+  - BI p.42: PCR(polymerase chain reaction)
+- 
+- 問41 
+  - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
+  - https://togotv.dbcls.jp/
+  - https://www.ncbi.nlm.nih.gov/pubmed/
 
 ----------
 # 2018-11-30
 
 ----------
+
 
