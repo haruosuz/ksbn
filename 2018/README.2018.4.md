@@ -99,30 +99,108 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - BI p.16: 1-4 DNAの複製
 - 問17
   - BI p.11: レトロウイルス; p.40: LTR型レトロトランスポゾン
+
+----------
+# 2018-11-30
+
+「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第3章 配列解析 
+
+## 3-1
+　分子生物学データベース  
+　　国際的な公共の分子生物学データベース
+- Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
+
+[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
+
+[Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)  
+
+[UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
+
+## nintei_28
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
+
 - 問18
   - BI p.90: 表 1. UCSC Genome Browser
   - [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
     - [統合TV | 関連するタグから検索 | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
-    - 2017-11-05 (2:35 - 3:25 / 6:19) [UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html)
+    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19) 
 - 問19
-  - BI p.45: ChIP–Seq; p46: DNA マイクロアレイ
+  - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
 - 問20
   - BI p.42: PCR(polymerase chain reaction)
 - 
 - 問41 
   - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
-  - https://www.ncbi.nlm.nih.gov/pubmed/
-
-----------
-# 2018-11-30
+  - [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163)
+  - [PubMed](https://integbio.jp/dbcatalog/record/nbdc00179)
+    - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+  - [ArrayExpress](https://integbio.jp/dbcatalog/record/nbdc00009)
+  - [SCOP/SCOP2 | タンパク質立体構造分類データベース](https://bi.biopapyrus.jp/db/scop.html)
 
 ## nintei_27
 [Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
 | [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
 
+- 問41 
+  - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
+  - [国際HapMap計画](https://integbio.jp/dbcatalog/record/nbdc00509)
+  - [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221) タンパク質配列データベース
+  - [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) タンパク質モチーフ・ドメインデータベース
+  - [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
+
 ----------
 # 2018-12-01
+
+## nintei_27
+[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
+
+- 問1
+  - BI p.10: 原核生物
+- 問2
+  - BI p.11: ウイルス
+- 問3
+  - BI p.12: 1-2 細胞内小器官; p.33: 解糖系，クエン酸回路，電子伝達系
+- 問4
+  - BI p.12: ミトコンドリア
+- 問5
+  - BI p.14: 1-3 細胞周期
+- 問6
+  - BI p.14: 減数分裂
+- 問7
+  - BI p.36: 1-14 遺伝
+- 問8
+  - BI p.32: 免疫
+- 問9
+  - BI p.34: 神経伝達物質
+  - ECB p.529: 表 16-1 シグナル分子の例
+- 問10
+  - BI p.28: 1-10 生体膜と膜タンパク質
+- 問11
+  - BI p.22: DNA
+- 問12
+  - BI p.16: 1-4 DNAの複製
+- 問13
+  - BI p.18: 1-5 転写, キャップ構造, ポリA鎖, イントロン
+- 問14
+  - BI p.24: 1-8 アミノ酸の構造と性質
+- 問15
+  - BI p.20: 1-6 翻訳, A 部位 A-site (aminoacyl), P 部位 P-site (peptidyl)
+- 問16
+  - BI p.26: タンパク質の折りたたみ; p.31: プロテアソーム
+- 問17
+  - BI p.10: ヌクレオソーム
+- 問18
+  - BI p.42: PCR
+  - ECB p.338: 図 10-15 PCR, 動画 10.1
+- 問19
+  - BI p.44: メタゲノム; p.154: 6-1 オーミクス解析の研究手法; p.155: メタボローム解析
+- 問20
+  - BI p.40: 1-16 ヒトゲノム
 
 ----------
 # 2018-12-07
@@ -131,5 +209,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 # 2018-12-21
 
 ----------
+
+
 
 
