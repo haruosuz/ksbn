@@ -25,7 +25,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [2018-11-16](#2018-11-16) 第1回 
 - 2018-11-23 勤労感謝の日
 - [2018-11-30](#2018-11-30) 第2回 
-- 2018-12-01（土曜日）4限【補講】第3回 
+- [2018-12-01](#2018-12-01)（土曜日）4限【補講】 第3回
 - 2018-12-07 第4回 
 - 2018-12-14 【休講】
 - 2018-12-21 第5回 
@@ -209,7 +209,23 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 # 2018-12-21
 
 ----------
+# 2019-01-11
 
+----------
+
+[Japanese Society for Bioinformatics - JSBi :: BI技術者認定試験](https://www.jsbi.org/nintei/)
+
+## nintei_29
+[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
+| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
+
+## nintei_26
+[Japanese Society for Bioinformatics - JSBi :: 平成26年度試験情報](https://www.jsbi.org/nintei/26/) 
+| [問題と解答 1.5MB](https://www.jsbi.org/pdfs/nintei/H26webmondai.pdf) 
+| [解説集371KB](https://www.jsbi.org/pdfs/nintei/H26kaisetsu.pdf) 
+
+----------
 
 
 
