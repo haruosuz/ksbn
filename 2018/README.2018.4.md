@@ -103,53 +103,34 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ----------
 # 2018-11-30
 
-「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第3章 配列解析 
+「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
+[5-5](#5-5) 
+[5-6](#5-6) 
+[5-7](#5-7) 
+[5-8](#5-8) 
 
-## 3-1
-　分子生物学データベース  
-　　国際的な公共の分子生物学データベース
-- Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
+## 5-5
+　分子進化
+　　分子進化の中立説と分子時計
+- Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
 
-[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
+## 5-6
+　進化系統樹
+　　進化系統樹の表現方法
+- Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
 
-[Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)  
+## 5-7
+　パラログ・オーソログ
+　　進化系統樹によるホモログ・パラログ・オーソログの解析
+- Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
 
-[UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
+## 5-8
+　系統推定アルゴリズム
+　　系統樹をつくるための系統推定アルゴリズム
+- Keyword UPGMA 法，近隣結合法，最大節約法，最尤法
 
-## nintei_28
-[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
-| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
-
-- 問18
-  - BI p.90: 表 1. UCSC Genome Browser
-  - [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-    - [統合TV | 関連するタグから検索 | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
-    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19) 
-- 問19
-  - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
-- 問20
-  - BI p.42: PCR(polymerase chain reaction)
-- 
-- 問41 
-  - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
-  - [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163)
-  - [PubMed](https://integbio.jp/dbcatalog/record/nbdc00179)
-    - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
-  - [ArrayExpress](https://integbio.jp/dbcatalog/record/nbdc00009)
-  - [SCOP/SCOP2 | タンパク質立体構造分類データベース](https://bi.biopapyrus.jp/db/scop.html)
-
-## nintei_27
-[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
-| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
-
-- 問41 
-  - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
-  - [国際HapMap計画](https://integbio.jp/dbcatalog/record/nbdc00509)
-  - [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221) タンパク質配列データベース
-  - [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) タンパク質モチーフ・ドメインデータベース
-  - [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
+## References
+**参考文献**
 
 ----------
 # 2018-12-01
@@ -204,6 +185,54 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ----------
 # 2018-12-07
+
+「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第3章 配列解析 
+
+## 3-1
+　分子生物学データベース  
+　　国際的な公共の分子生物学データベース
+- Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
+
+[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
+
+[Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)  
+
+[UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
+
+## nintei_28
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
+
+- 問18
+  - BI p.90: 表 1. UCSC Genome Browser
+  - [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+    - [統合TV | 関連するタグから検索 | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
+    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19) 
+- 問19
+  - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
+- 問20
+  - BI p.42: PCR(polymerase chain reaction)
+- 
+- 問41 
+  - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
+  - [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163)
+  - [PubMed](https://integbio.jp/dbcatalog/record/nbdc00179)
+    - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+  - [ArrayExpress](https://integbio.jp/dbcatalog/record/nbdc00009)
+  - [SCOP/SCOP2 | タンパク質立体構造分類データベース](https://bi.biopapyrus.jp/db/scop.html)
+
+## nintei_27
+[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
+
+- 問41 
+  - BI p.90: 3-1 分子生物学データベース | 表 1.代表的な DB リスト
+  - [国際HapMap計画](https://integbio.jp/dbcatalog/record/nbdc00509)
+  - [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221) タンパク質配列データベース
+  - [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) タンパク質モチーフ・ドメインデータベース
+  - [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
 
 ----------
 # 2018-12-21
