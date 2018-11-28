@@ -114,6 +114,10 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 練習問題 [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
 - [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
 - p.90: 表 1.代表的な DB リスト
+- [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+- [生命科学データベース・ウェブツール](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+
+![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
 
 ## nintei_29
 [Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
@@ -145,9 +149,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 | [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
 
 - 問18
-  - BI p.90: 表 1. UCSC Genome Browser
-  - [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-    - [統合TV | 関連するタグから検索 | UCSC](https://togotv.dbcls.jp/tags.html?tag=UCSC)
+  - [UCSC Genome Browser](https://togotv.dbcls.jp/tags.html?tag=UCSC)
     - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19) 
 - 問19
   - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
