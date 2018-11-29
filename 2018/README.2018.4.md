@@ -100,6 +100,20 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - BI p.16: 1-4 DNAの複製
 - 問17
   - BI p.11: レトロウイルス; p.40: LTR型レトロトランスポゾン
+-
+- 問19
+  - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
+- 問20
+  - BI p.42: PCR(polymerase chain reaction)
+- 
+- 問61
+  - BI p.150: 5-7 遺伝子重複
+- 問62
+  - BI p.146: 5-5 分子時計
+- 
+- 問 64・問 65
+  - BI p.152: 5-8 系統推定アルゴリズム 最大節約法 (maximum parsimony; MP法)
+
 
 ----------
 # 2018-11-30
@@ -111,11 +125,13 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 　　国際的な公共の分子生物学データベース
 - Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
 - [DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
-- 練習問題 [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
 - [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
 - p.90: 表 1.代表的な DB リスト
-- [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-- [生命科学データベース・ウェブツール](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+- 練習問題 [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
+
+[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+
+[生命科学データベース・ウェブツール](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
 
 ![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
 
@@ -130,13 +146,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - 3 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163)：タンパク質ドメイン
   - 4 [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221)：タンパク質配列
 -
-- 問62
-  - BI p.144: 5-4 ゲノムワイド関連解析
-  - ECB p.676: 19 SNPを手がかりにヒトの疾患を解明する
-- 問63
-  - BI p.146: 5-5 同義置換と非同義置換
-  - ECB p.323: 問題9-17
--
 - 問 69・問 70
   - [KEGG](https://integbio.jp/dbcatalog/record/nbdc00530)
   - [KEGG PATHWAY: Valine, leucine and isoleucine biosynthesis](https://www.genome.jp/dbget-bin/www_bget?pathway:map00290)
@@ -150,11 +159,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 - 問18
   - [UCSC Genome Browser](https://togotv.dbcls.jp/tags.html?tag=UCSC)
-    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19) 
-- 問19
-  - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
-- 問20
-  - BI p.42: PCR(polymerase chain reaction)
+    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19)
 - 
 - 問 41
   - 1 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) | 配列モチーフ
@@ -174,7 +179,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - 4 [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
 
 ----------
-# 
 
 「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
 [5-5](#5-5) 
@@ -207,6 +211,79 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ----------
 # 2018-12-01
+
+まとめ「Essential細胞生物学」第16~20章
+
+[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- 16　細胞のシグナル伝達
+  - P526: 細胞のシグナル伝達の一般原理
+  - P539: Gタンパク共役型受容体
+  - P551: 酵素共役型受容体
+- 17　細胞骨格
+  - P567: 中間径フィラメント
+  - P571: 微小管
+  - P583: アクチンフィラメント
+  - P592: 筋収縮
+- 18　細胞周期
+  - P604: 細胞周期の概要
+  - P607: 細胞周期制御系
+  - P613: G1期
+  - P616: S期
+  - P618: M期
+  - P621: 有糸分裂
+  - P630: 細胞質分裂
+  - P633: 細胞の数と大きさの制御
+- 19　有性生殖と遺伝学の力
+  - P646: 性の利点
+  - P648: 減数分裂と受精
+  - P657: メンデルと遺伝の法則
+  - P667: 実験手段としての遺伝学
+- 20　細胞のつくる社会：組織，幹細胞，がん
+  - P684: 細胞外マトリックスと結合組織
+  - P694: 上皮層と細胞結合
+  - P702: 組織の維持と更新
+  - P712: がん
+
+## QUESTIONS
+章末問題
+### QUESTION_16-11
+| 問題16-11 | ページ |
+|:---------|:---------|
+| A. | p.529 (図 16-5) アセチルコリン |
+| C. | p.540 (図 16-19) Gタンパク共役型受容体 G-protein-coupled receptor (GPCR) |
+| D. | p.547 (図 16-27) イノシトールリン脂質 inositol phospholipid |
+| E. | p.549 (図 16-29) カルモジュリン calmodulin |
+| F. | p.558 (図 16-40); p.534 (図 16-13) 複数の細胞内シグナル伝達経路からのシグナルを統合 |
+| G. | p.551 (図 16-32) 受容体チロシンキナーゼ receptor tyrosine kinase (RTK) |
+
+### QUESTION_17-11
+| 問題 17-11 | ページ |
+|:---------|:---------|
+| A. | p. |
+
+
+
+
+
+
+| A.B.E. | p.420 (図13-1) 糖の酸化 |
+| A. B. | p.474 (図14-36) 光合成 |
+| A. | p.465; p.454 (図14-10) NAD+; p.467 (図14-23) キノン |
+
+
+
+
+
+----------
+# 2018-12-07
+
+----------
+# 2018-12-21
+
+----------
+# 2019-01-11
+
+----------
 
 ## nintei_27
 [Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
@@ -257,39 +334,21 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - BI p.40: 1-16 ヒトゲノム
 
 ----------
-# 2018-12-07
-
-----------
-# 2018-12-21
-
-----------
-# 2019-01-11
-
-----------
-# nintei
-[Japanese Society for Bioinformatics - JSBi :: BI技術者認定試験](https://www.jsbi.org/nintei/)
-
 ## nintei_29
 [Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
 | [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
 
-## nintei_28
-[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
-| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
-
-## nintei_27
-[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
-| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
-
-## nintei_26
-[Japanese Society for Bioinformatics - JSBi :: 平成26年度試験情報](https://www.jsbi.org/nintei/26/) 
-| [問題と解答 1.5MB](https://www.jsbi.org/pdfs/nintei/H26webmondai.pdf) 
-| [解説集371KB](https://www.jsbi.org/pdfs/nintei/H26kaisetsu.pdf) 
+- 問62
+  - BI p.144: 5-4 ゲノムワイド関連解析
+  - ECB p.676: 19 SNPを手がかりにヒトの疾患を解明する
+- 問63
+  - BI p.146: 5-5 同義置換と非同義置換
+  - ECB p.323: 問題9-17
 
 ----------
+
+
 
 
 
