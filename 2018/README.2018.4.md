@@ -84,6 +84,11 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 | F. | p.558 (図 16-40); p.534 (図 16-13) 複数の細胞内シグナル伝達経路からのシグナルを統合 |
 | G. | p.551 (図 16-32) 受容体チロシンキナーゼ receptor tyrosine kinase (RTK) |
 
+[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
+p.34
+　1-13　シグナル伝達
+　　細胞間のシグナル伝達によるコミュニケーション
+
 ### QUESTION_17-11
 | 問題 17-11 | ページ |
 |:---------|:---------|
@@ -95,9 +100,23 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 | G. | p.595 (図 17-44) 横行管(T管), 筋小胞体 |
 | H. | p.597 トロポニン |
 
-P.566 (図 17-2) 中間径フィラメント（左）、微小管（中）、アクチンフィラメント（右）
 [細胞骨格](http://feynmanino.watson.jp/5836_132cytoskeleton.html)
+p.566 (図 17-2) 中間径フィラメント（左）、微小管（中）、アクチンフィラメント（右）
+
 ![http://feynmanino.watson.jp/5836_132cytoskeleton.html](http://feynmanino.watson.jp/5836_132cytoskeleton1.jpg)
+
+### QUESTION_19-7
+| 問題 19-7 | ページ |
+|:---------|:---------|
+| A. | p.646 一倍体 |
+| B. | p.649 (図 19-6) 減数分裂 |
+
+[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
+p.14
+　1-3　細胞周期
+　　細胞分裂と細胞周期
+図 3.体細胞分裂と減数分裂
+
 
 
 ----------
