@@ -37,6 +37,158 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ----------
 ----------
 
+----------
+# 2018-12-01
+
+まとめ「Essential細胞生物学」第16~20章
+
+[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- 16　細胞のシグナル伝達
+  - P526: 細胞のシグナル伝達の一般原理
+  - P539: Gタンパク共役型受容体
+  - P551: 酵素共役型受容体
+- 17　細胞骨格
+  - P567: 中間径フィラメント
+  - P571: 微小管
+  - P583: アクチンフィラメント
+  - P592: 筋収縮
+- 18　細胞周期
+  - P604: 細胞周期の概要
+  - P607: 細胞周期制御系
+  - P613: G1期
+  - P616: S期
+  - P618: M期
+  - P621: 有糸分裂
+  - P630: 細胞質分裂
+  - P633: 細胞の数と大きさの制御
+- 19　有性生殖と遺伝学の力
+  - P646: 性の利点
+  - P648: 減数分裂と受精
+  - P657: メンデルと遺伝の法則
+  - P667: 実験手段としての遺伝学
+- 20　細胞のつくる社会：組織，幹細胞，がん
+  - P684: 細胞外マトリックスと結合組織
+  - P694: 上皮層と細胞結合
+  - P702: 組織の維持と更新
+  - P712: がん
+
+## QUESTIONS
+章末問題
+### QUESTION_16-11
+| 問題16-11 | ページ |
+|:---------|:---------|
+| A. | p.529 (図 16-5) アセチルコリン |
+| C. | p.540 (図 16-19) Gタンパク共役型受容体 G-protein-coupled receptor (GPCR) |
+| D. | p.547 (図 16-27) イノシトールリン脂質 inositol phospholipid |
+| E. | p.549 (図 16-29) カルモジュリン calmodulin |
+| F. | p.558 (図 16-40); p.534 (図 16-13) 複数の細胞内シグナル伝達経路からのシグナルを統合 |
+| G. | p.551 (図 16-32) 受容体チロシンキナーゼ receptor tyrosine kinase (RTK) |
+
+### QUESTION_17-11
+| 問題 17-11 | ページ |
+|:---------|:---------|
+| A. | p.578 (図 17-20) (動画 17.4) キネシンは微小管沿いに小胞体を引っ張って網をかけるように広げる |
+| B. | p.584 (図 17-28D); p.593 アクチンは収縮環をつくるのに必要 |
+| C. | p.588-590 (図 17-34) 葉状仮足と糸状仮足 |
+| D. | p.584 (図 17-27) ダイニンの運動により鞭毛が曲がるしくみ |
+| F. | p.573 微小管のプラス端、マイナス端; p.575 (図 17-15) GTP キャップ |
+| G. | p.595 (図 17-44) 横行管(T管), 筋小胞体 |
+| H. | p.597 トロポニン |
+
+P.566 (図 17-2) 中間径フィラメント（左）、微小管（中）、アクチンフィラメント（右）
+[細胞骨格](http://feynmanino.watson.jp/5836_132cytoskeleton.html)
+![http://feynmanino.watson.jp/5836_132cytoskeleton.html](http://feynmanino.watson.jp/5836_132cytoskeleton1.jpg)
+
+
+----------
+# 2018-11-30
+
+「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第3章 配列解析 
+
+## 3-1
+　分子生物学データベース  
+　　国際的な公共の分子生物学データベース
+- Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
+- [国際塩基配列データベース](https://www.ddbj.nig.ac.jp/insdc.html)
+[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)
+- [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
+- p.90: 表 1.代表的な DB リスト
+- 練習問題
+  - [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)
+  - [UniProt Knowledgebase User Manual](https://web.expasy.org/docs/userman.html)
+
+[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+  - [2017-09-12 UniProtを使って、タンパク質のアミノ酸配列とその機能情報を横断的・網羅的に調べる](http://togotv.dbcls.jp/ja/20170912.html)
+  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
+
+[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+
+![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
+
+## nintei_29
+[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
+| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
+
+- 問 44
+  - 1 [GEO (Gene Expression Omnibus)](https://integbio.jp/dbcatalog/record/nbdc00080)：遺伝子発現 DB
+  - 2 [JASPAR](https://integbio.jp/dbcatalog/record/nbdc00904)：転写因子結合配列
+  - 3 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163)：タンパク質ドメイン
+  - 4 [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221)：タンパク質配列
+-
+- 問 69・問 70
+  - [KEGG](https://integbio.jp/dbcatalog/record/nbdc00530)
+  - [KEGG PATHWAY: Valine, leucine and isoleucine biosynthesis](https://www.genome.jp/dbget-bin/www_bget?pathway:map00290)
+
+![](https://www.genome.jp/kegg/misc/thumbnail/map00290.gif)
+
+[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
+  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
+  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00190)
+  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
+
+[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- 13　細胞が食物からエネルギーを得るしくみ
+  - p.424: 図13-15 (動画13.1) 解糖
+  - p.428: パネル13-1　解糖の10の反応の詳細
+  - p.432: 図13-12 (動画13.2) クエン酸回路
+  - p.434: パネル13-2　クエン酸回路の概要
+- 14　ミトコンドリアと葉緑体でのエネルギー生産
+| 酸化的リン酸化を行う電子伝達系
+  - p.456: 図14-14 (動画14.2) 呼吸酵素複合体
+  - p.458: 図 14-16 (動画14.3) ATP合成酵素
+  - p.475: 図14-37 (動画14.7) 光合成
+
+## nintei_28
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
+
+- 問18
+  - [UCSC Genome Browser](https://togotv.dbcls.jp/tags.html?tag=UCSC)
+    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35-3:25 / 6:19)
+    - [2012-05-28 UCSC Genome Browserの使い方〜表示+ENCODE編〜 2012](https://togotv.dbcls.jp/20120528.html) (1:00-2:05 / 9:07)
+- 
+- 問 41
+  - 1 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) | 配列モチーフ
+  - 2 [PubMed](https://integbio.jp/dbcatalog/record/nbdc00179) | 文献情報
+  - 3 [ArrayExpress](https://integbio.jp/dbcatalog/record/nbdc00009) | 遺伝子発現
+  - 4 [SCOP (Structural Classification of Proteins) | タンパク質立体構造分類データベース](https://bi.biopapyrus.jp/db/scop.html)
+
+## nintei_27
+[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
+
+- 問 41
+  - 1 [HapMap](https://integbio.jp/dbcatalog/record/nbdc00509)
+  - 2 [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221) タンパク質配列データベース
+  - 3 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) タンパク質モチーフ・ドメインデータベース
+  - 4 [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
+
+----------
 # 2018-11-16
 
 - BI [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
@@ -115,145 +267,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - BI p.152: 5-8 系統推定アルゴリズム 最大節約法 (maximum parsimony; MP法)
 
 
-----------
-# 2018-11-30
 
-「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第3章 配列解析 
-
-## 3-1
-　分子生物学データベース  
-　　国際的な公共の分子生物学データベース
-- Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
-- [国際塩基配列データベース](https://www.ddbj.nig.ac.jp/insdc.html)
-[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)
-- [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
-- p.90: 表 1.代表的な DB リスト
-- 練習問題
-  - [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)
-  - [UniProt Knowledgebase User Manual](https://web.expasy.org/docs/userman.html)
-
-[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
-  - [2017-09-12 UniProtを使って、タンパク質のアミノ酸配列とその機能情報を横断的・網羅的に調べる](http://togotv.dbcls.jp/ja/20170912.html)
-  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
-
-[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
-
-![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
-
-## nintei_29
-[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
-| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
-
-- 問 44
-  - 1 [GEO (Gene Expression Omnibus)](https://integbio.jp/dbcatalog/record/nbdc00080)：遺伝子発現 DB
-  - 2 [JASPAR](https://integbio.jp/dbcatalog/record/nbdc00904)：転写因子結合配列
-  - 3 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163)：タンパク質ドメイン
-  - 4 [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221)：タンパク質配列
--
-- 問 69・問 70
-  - [KEGG](https://integbio.jp/dbcatalog/record/nbdc00530)
-  - [KEGG PATHWAY: Valine, leucine and isoleucine biosynthesis](https://www.genome.jp/dbget-bin/www_bget?pathway:map00290)
-
-![](https://www.genome.jp/kegg/misc/thumbnail/map00290.gif)
-
-[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
-  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
-  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00190)
-  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
-
-[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
-- 13　細胞が食物からエネルギーを得るしくみ
-  - p.424: 図13-15 (動画13.1) 解糖
-  - p.428: パネル13-1　解糖の10の反応の詳細
-  - p.432: 図13-12 (動画13.2) クエン酸回路
-  - p.434: パネル13-2　クエン酸回路の概要
-- 14　ミトコンドリアと葉緑体でのエネルギー生産
-酸化的リン酸化を行う電子伝達系
-  - p.456: 図14-14 (動画14.2) 3種の呼吸酵素複合体
-  - p.456: 図14-16 (動画14.3) ATP合成酵素
-  - p.475: 図14-37 (動画14.7) 光合成
-
-## nintei_28
-[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
-| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
-
-- 問18
-  - [UCSC Genome Browser](https://togotv.dbcls.jp/tags.html?tag=UCSC)
-    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35-3:25 / 6:19)
-    - [2012-05-28 UCSC Genome Browserの使い方〜表示+ENCODE編〜 2012](https://togotv.dbcls.jp/20120528.html) (1:00-2:05 / 9:07)
-- 
-- 問 41
-  - 1 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) | 配列モチーフ
-  - 2 [PubMed](https://integbio.jp/dbcatalog/record/nbdc00179) | 文献情報
-  - 3 [ArrayExpress](https://integbio.jp/dbcatalog/record/nbdc00009) | 遺伝子発現
-  - 4 [SCOP (Structural Classification of Proteins) | タンパク質立体構造分類データベース](https://bi.biopapyrus.jp/db/scop.html)
-
-## nintei_27
-[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
-| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
-
-- 問 41
-  - 1 [HapMap](https://integbio.jp/dbcatalog/record/nbdc00509)
-  - 2 [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221) タンパク質配列データベース
-  - 3 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) タンパク質モチーフ・ドメインデータベース
-  - 4 [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
-
-----------
-# 2018-12-01
-
-まとめ「Essential細胞生物学」第16~20章
-
-[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
-- 16　細胞のシグナル伝達
-  - P526: 細胞のシグナル伝達の一般原理
-  - P539: Gタンパク共役型受容体
-  - P551: 酵素共役型受容体
-- 17　細胞骨格
-  - P567: 中間径フィラメント
-  - P571: 微小管
-  - P583: アクチンフィラメント
-  - P592: 筋収縮
-- 18　細胞周期
-  - P604: 細胞周期の概要
-  - P607: 細胞周期制御系
-  - P613: G1期
-  - P616: S期
-  - P618: M期
-  - P621: 有糸分裂
-  - P630: 細胞質分裂
-  - P633: 細胞の数と大きさの制御
-- 19　有性生殖と遺伝学の力
-  - P646: 性の利点
-  - P648: 減数分裂と受精
-  - P657: メンデルと遺伝の法則
-  - P667: 実験手段としての遺伝学
-- 20　細胞のつくる社会：組織，幹細胞，がん
-  - P684: 細胞外マトリックスと結合組織
-  - P694: 上皮層と細胞結合
-  - P702: 組織の維持と更新
-  - P712: がん
-
-## QUESTIONS
-章末問題
-### QUESTION_16-11
-| 問題16-11 | ページ |
-|:---------|:---------|
-| A. | p.529 (図 16-5) アセチルコリン |
-| C. | p.540 (図 16-19) Gタンパク共役型受容体 G-protein-coupled receptor (GPCR) |
-| D. | p.547 (図 16-27) イノシトールリン脂質 inositol phospholipid |
-| E. | p.549 (図 16-29) カルモジュリン calmodulin |
-| F. | p.558 (図 16-40); p.534 (図 16-13) 複数の細胞内シグナル伝達経路からのシグナルを統合 |
-| G. | p.551 (図 16-32) 受容体チロシンキナーゼ receptor tyrosine kinase (RTK) |
-
-### QUESTION_17-11
-| 問題 17-11 | ページ |
-|:---------|:---------|
-| A. | p. |
 
 ----------
 # 2018-12-07
@@ -357,6 +371,11 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ## References
 **参考文献**
+
+- TED Talk
+  - 2014 [ジャネット・イワサ: アニメーションで科学者の仮説を試す方法](https://www.ted.com/talks/janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis/transcript?source=google_plusone&language=ja)
+  - 2011 [ドリュー・ベリー「不可視な超微小生物世界のCG」](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology/transcript?awesm=on.ted.com_eiU6&source=twitter&language=ja) 07:49 キネシン ダイニン
+  - 2007 [デヴィッド・ボリンスキー: 細胞に命を吹き込む](https://www.ted.com/talks/david_bolinsky_animates_a_cell/transcript?awesm=on.ted.com_q05AE&utm_medium=on.ted.com-none&share=1294a707ec&utm_source=direct-on.ted.com&utm_campaign=&language=ja&utm_content=roadrunner-rrshorturl) 06:21 07:50 キネシン
 
 ----------
 
