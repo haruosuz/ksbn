@@ -124,8 +124,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 　分子生物学データベース  
 　　国際的な公共の分子生物学データベース
 - Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
-- [DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)
-[国際塩基配列データベース](https://www.ddbj.nig.ac.jp/insdc.html)
+- [国際塩基配列データベース](https://www.ddbj.nig.ac.jp/insdc.html)
+[DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)
 - [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
 - p.90: 表 1.代表的な DB リスト
 - 練習問題
@@ -139,12 +139,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
 
-[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
-  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
-  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
-
 [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
 - 13　細胞が食物からエネルギーを得るしくみ
   - p.424: 図13-15 (動画13.1) 解糖
@@ -156,6 +150,11 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - p.456: 図14-14 (動画14.2) 3種の呼吸酵素複合体
   - p.456: 図14-16 (動画14.3) ATP合成酵素
   - p.475: 図14-37 (動画14.7) 光合成
+- [KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
+  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
+  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
 
 ## nintei_29
 [Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
