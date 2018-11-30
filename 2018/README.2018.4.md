@@ -183,7 +183,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 - 問18
   - [UCSC Genome Browser](https://togotv.dbcls.jp/tags.html?tag=UCSC)
-    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35 - 3:25 / 6:19)
+    - [2017-11-05 UCSC Genome Browser を使って遺伝子を検索し、ゲノムブラウザ上にさまざまな情報を表示する](https://togotv.dbcls.jp/20171105.html) (2:35-3:25 / 6:19)
+    - [2012-05-28 UCSC Genome Browserの使い方〜表示+ENCODE編〜 2012](https://togotv.dbcls.jp/20120528.html) (1:00-2:05 / 9:07)
 - 
 - 問 41
   - 1 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) | 配列モチーフ
