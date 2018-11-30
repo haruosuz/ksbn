@@ -105,6 +105,15 @@ p.566 (図 17-2) 中間径フィラメント（左）、微小管（中）、ア
 
 ![http://feynmanino.watson.jp/5836_132cytoskeleton.html](http://feynmanino.watson.jp/5836_132cytoskeleton1.jpg)
 
+### QUESTION_18-23
+| 問題 18-23 | ページ |
+|:---------|:---------|
+| A. | p.621 (図 18-21) 間期の細胞の中心体が倍加 |
+| B. | p.627 (図 18-27) 姉妹染色分体は後期に分離する |
+| C. | p.624 (図 18-22) 極間微小管 |
+| D.  | p.617 (図 18-16) DNA複製 |
+| E.  | p.624 (図 18-23) 動原体は染色体を微小管にくっつける |
+
 ### QUESTION_19-7
 | 問題 19-7 | ページ |
 |:---------|:---------|
@@ -117,7 +126,18 @@ p.14
 　　細胞分裂と細胞周期
 図 3.体細胞分裂と減数分裂
 
+----------
 
+## References
+**参考文献**
+
+- TED Talk
+  - 2014 [ジャネット・イワサ: アニメーションで科学者の仮説を試す方法](https://www.ted.com/talks/janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis/transcript?source=google_plusone&language=ja)
+  - 2011 [ドリュー・ベリー「不可視な超微小生物世界のCG」](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology/transcript?awesm=on.ted.com_eiU6&source=twitter&language=ja)
+03:19 DNA複製
+07:49 キネシン ダイニン
+  - 2007 [デヴィッド・ボリンスキー: 細胞に命を吹き込む](https://www.ted.com/talks/david_bolinsky_animates_a_cell/transcript?awesm=on.ted.com_q05AE&utm_medium=on.ted.com-none&share=1294a707ec&utm_source=direct-on.ted.com&utm_campaign=&language=ja&utm_content=roadrunner-rrshorturl)
+06:21 07:50 キネシン
 
 ----------
 # 2018-11-30
@@ -385,16 +405,6 @@ p.14
 - 問63
   - BI p.146: 5-5 同義置換と非同義置換
   - ECB p.323: 問題9-17
-
-----------
-
-## References
-**参考文献**
-
-- TED Talk
-  - 2014 [ジャネット・イワサ: アニメーションで科学者の仮説を試す方法](https://www.ted.com/talks/janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis/transcript?source=google_plusone&language=ja)
-  - 2011 [ドリュー・ベリー「不可視な超微小生物世界のCG」](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology/transcript?awesm=on.ted.com_eiU6&source=twitter&language=ja) 07:49 キネシン ダイニン
-  - 2007 [デヴィッド・ボリンスキー: 細胞に命を吹き込む](https://www.ted.com/talks/david_bolinsky_animates_a_cell/transcript?awesm=on.ted.com_q05AE&utm_medium=on.ted.com-none&share=1294a707ec&utm_source=direct-on.ted.com&utm_campaign=&language=ja&utm_content=roadrunner-rrshorturl) 06:21 07:50 キネシン
 
 ----------
 
