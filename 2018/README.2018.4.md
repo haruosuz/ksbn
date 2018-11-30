@@ -124,7 +124,8 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 　分子生物学データベース  
 　　国際的な公共の分子生物学データベース
 - Keyword 遺伝子・タンパク質配列 DB，代謝パスウェイ DB，遺伝子発現 DB，文献 DB，アノテーション
-- [DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
+- [DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)
+[国際塩基配列データベース](https://www.ddbj.nig.ac.jp/insdc.html)
 - [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
 - p.90: 表 1.代表的な DB リスト
 - 練習問題
