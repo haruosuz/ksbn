@@ -127,13 +127,34 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [DDBJ](https://ja.wikipedia.org/wiki/DDBJ)/[EMBL](https://ja.wikipedia.org/wiki/EMBL)/[GenBank](https://ja.wikipedia.org/wiki/GenBank)国際塩基配列データベース  
 - [Integbio データベースカタログ](http://integbio.jp/dbcatalog/?lang=ja)
 - p.90: 表 1.代表的な DB リスト
-- 練習問題 [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)  
-
-[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+- 練習問題
+  - [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)
+  - [UniProt Knowledgebase User Manual](https://web.expasy.org/docs/userman.html) 
+- [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
 
 [生命科学データベース・ウェブツール](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
 
 ![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
+
+[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
+  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
+  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
+
+[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- 13　細胞が食物からエネルギーを得るしくみ
+  - p.424: 図13-15 (動画13.1) 解糖
+  - p.428: パネル13-1　解糖の10の反応の詳細
+  - p.432: 図13-12 (動画13.2) クエン酸回路
+  - p.434: パネル13-2　クエン酸回路の概要
+- 14　ミトコンドリアと葉緑体でのエネルギー生産
+酸化的リン酸化を行う電子伝達系
+  - p.456: 図14-14 (動画14.2) 3種の呼吸酵素複合体
+  - p.456: 図14-16 (動画14.3) ATP合成酵素
+  - p.475: 図14-37 (動画14.7) 光合成
 
 ## nintei_29
 [Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
@@ -260,19 +281,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 | 問題 17-11 | ページ |
 |:---------|:---------|
 | A. | p. |
-
-
-
-
-
-
-| A.B.E. | p.420 (図13-1) 糖の酸化 |
-| A. B. | p.474 (図14-36) 光合成 |
-| A. | p.465; p.454 (図14-10) NAD+; p.467 (図14-23) キノン |
-
-
-
-
 
 ----------
 # 2018-12-07
