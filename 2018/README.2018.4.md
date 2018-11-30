@@ -130,14 +130,13 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - p.90: 表 1.代表的な DB リスト
 - 練習問題
   - [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)
-  - [UniProt Knowledgebase User Manual](https://web.expasy.org/docs/userman.html) 
-- [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
-  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
+  - [UniProt Knowledgebase User Manual](https://web.expasy.org/docs/userman.html)
 
-[生命科学データベース・ウェブツール](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
-
-![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
+[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
+  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
+  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
 
 [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
 - 13　細胞が食物からエネルギーを得るしくみ
@@ -150,11 +149,15 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - p.456: 図14-14 (動画14.2) 3種の呼吸酵素複合体
   - p.456: 図14-16 (動画14.3) ATP合成酵素
   - p.475: 図14-37 (動画14.7) 光合成
-- [KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
-  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
-  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
+
+[統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
+  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
+  - [2017-09-12 UniProtを使って、タンパク質のアミノ酸配列とその機能情報を横断的・網羅的に調べる](http://togotv.dbcls.jp/ja/20170912.html)
+  - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+
+[生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
+
+![](https://www.medsi.co.jp/books/upload/save_image/11210924_5bf4a5b6be263.jpg)
 
 ## nintei_29
 [Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
