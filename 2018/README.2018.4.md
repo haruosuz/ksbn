@@ -132,28 +132,10 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - [UniProt: P04156](https://www.genome.jp/dbget-bin/www_bget?uniprot:P04156)
   - [UniProt Knowledgebase User Manual](https://web.expasy.org/docs/userman.html)
 
-[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
-  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
-  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00020)
-  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
-
-[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
-- 13　細胞が食物からエネルギーを得るしくみ
-  - p.424: 図13-15 (動画13.1) 解糖
-  - p.428: パネル13-1　解糖の10の反応の詳細
-  - p.432: 図13-12 (動画13.2) クエン酸回路
-  - p.434: パネル13-2　クエン酸回路の概要
-- 14　ミトコンドリアと葉緑体でのエネルギー生産
-酸化的リン酸化を行う電子伝達系
-  - p.456: 図14-14 (動画14.2) 3種の呼吸酵素複合体
-  - p.456: 図14-16 (動画14.3) ATP合成酵素
-  - p.475: 図14-37 (動画14.7) 光合成
-
 [統合TV | 生命科学系DB・ツール使い倒し系チャンネル](https://togotv.dbcls.jp/)
-  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
-  - [2017-09-12 UniProtを使って、タンパク質のアミノ酸配列とその機能情報を横断的・網羅的に調べる](http://togotv.dbcls.jp/ja/20170912.html)
   - [2012-08-30 PubMedで論文を検索する](https://togotv.dbcls.jp/20120830.html)
+  - [2017-09-12 UniProtを使って、タンパク質のアミノ酸配列とその機能情報を横断的・網羅的に調べる](http://togotv.dbcls.jp/ja/20170912.html)
+  - [2017-12-12 Pfamを使ってタンパク質のドメインを調べる 2017](https://togotv.dbcls.jp/20171212.html)
 
 [生命科学データベース・ウェブツール  － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －](https://www.medsi.co.jp/books/products/detail.php?product_id=3665)
 
@@ -175,6 +157,24 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - [KEGG PATHWAY: Valine, leucine and isoleucine biosynthesis](https://www.genome.jp/dbget-bin/www_bget?pathway:map00290)
 
 ![](https://www.genome.jp/kegg/misc/thumbnail/map00290.gif)
+
+[KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
+  - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
+  - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
+  - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00190)
+  - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
+
+[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+- 13　細胞が食物からエネルギーを得るしくみ
+  - p.424: 図13-15 (動画13.1) 解糖
+  - p.428: パネル13-1　解糖の10の反応の詳細
+  - p.432: 図13-12 (動画13.2) クエン酸回路
+  - p.434: パネル13-2　クエン酸回路の概要
+- 14　ミトコンドリアと葉緑体でのエネルギー生産
+酸化的リン酸化を行う電子伝達系
+  - p.456: 図14-14 (動画14.2) 3種の呼吸酵素複合体
+  - p.456: 図14-16 (動画14.3) ATP合成酵素
+  - p.475: 図14-37 (動画14.7) 光合成
 
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
@@ -202,37 +202,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - 2 [UniProt](https://integbio.jp/dbcatalog/record/nbdc00221) タンパク質配列データベース
   - 3 [Pfam](https://integbio.jp/dbcatalog/record/nbdc00163) タンパク質モチーフ・ドメインデータベース
   - 4 [Ensembl](https://integbio.jp/dbcatalog/record/nbdc00054) 統合ゲノムデータベース
-
-----------
-
-「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
-[5-5](#5-5) 
-[5-6](#5-6) 
-[5-7](#5-7) 
-[5-8](#5-8) 
-
-## 5-5
-　分子進化
-　　分子進化の中立説と分子時計
-- Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
-
-## 5-6
-　進化系統樹
-　　進化系統樹の表現方法
-- Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
-
-## 5-7
-　パラログ・オーソログ
-　　進化系統樹によるホモログ・パラログ・オーソログの解析
-- Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
-
-## 5-8
-　系統推定アルゴリズム
-　　系統樹をつくるための系統推定アルゴリズム
-- Keyword UPGMA 法，近隣結合法，最大節約法，最尤法
-
-## References
-**参考文献**
 
 ----------
 # 2018-12-01
@@ -288,6 +257,32 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ----------
 # 2018-12-07
+
+「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
+[5-5](#5-5) 
+[5-6](#5-6) 
+[5-7](#5-7) 
+[5-8](#5-8) 
+
+## 5-5
+　分子進化
+　　分子進化の中立説と分子時計
+- Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
+
+## 5-6
+　進化系統樹
+　　進化系統樹の表現方法
+- Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
+
+## 5-7
+　パラログ・オーソログ
+　　進化系統樹によるホモログ・パラログ・オーソログの解析
+- Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
+
+## 5-8
+　系統推定アルゴリズム
+　　系統樹をつくるための系統推定アルゴリズム
+- Keyword UPGMA 法，近隣結合法，最大節約法，最尤法
 
 ----------
 # 2018-12-21
@@ -360,7 +355,9 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ----------
 
+## References
+**参考文献**
 
-
+----------
 
 
