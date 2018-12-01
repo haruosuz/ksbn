@@ -77,12 +77,14 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ### QUESTION_16-11
 | 問題16-11 | ページ |
 |:---------|:---------|
-| A. | p.529 (図 16-5) アセチルコリン |
-| C. | p.540 (図 16-19) (動画 16.2) Gタンパク共役型受容体 G-protein-coupled receptor (GPCR) |
+| A.B. | p.529 (図 16-5) アセチルコリン |
+| C. | p.540-543 (図 16-19)-(図 16-21) (動画 16.2) GPCR |
 | D. | p.547 (図 16-27) イノシトールリン脂質 inositol phospholipid |
 | E. | p.549 (図 16-29) (動画 16.5) カルモジュリン calmodulin |
 | F. | p.558 (図 16-40); p.534 (図 16-13) 複数の細胞内シグナル伝達経路からのシグナルを統合 |
 | G. | p.551 (図 16-32) 受容体チロシンキナーゼ receptor tyrosine kinase (RTK) |
+
+p.538: 図 16-17 (A) イオンチャネル共役型受容体, (B)Gタンパク共役型受容体, (C) 酵素共役型受容体
 
 [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
 p.34
@@ -96,6 +98,7 @@ p.34
 | B. | p.584 (図 17-28D); p.593 アクチンは収縮環をつくるのに必要 |
 | C. | p.588-590 (図 17-34) 葉状仮足と糸状仮足 |
 | D. | p.584 (図 17-27) ダイニンの運動により鞭毛が曲がるしくみ |
+| E. | p.567 (動画 17.1) 中間径フィラメント |
 | F. | p.573 微小管のプラス端、マイナス端; p.575 (図 17-15) (動画 17.3) GTP キャップ |
 | G. | p.595 (図 17-44) 横行管(T管), 筋小胞体 |
 | H. | p.597 トロポニン |
@@ -104,7 +107,6 @@ p.34
 
 [細胞骨格](http://feynmanino.watson.jp/5836_132cytoskeleton.html)  
 p.566: (図 17-2) 中間径フィラメント（左）、微小管（中）、アクチンフィラメント（右）  
-p.567: (動画 17.1) 中間径フィラメント
 
 ### QUESTION_18-23
 | 問題 18-23 | ページ |
@@ -157,6 +159,7 @@ p.654: (動画 19.1) 減数分裂 meiosis
   - 2014 [ジャネット・イワサ: アニメーションで科学者の仮説を試す方法](https://www.ted.com/talks/janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis/transcript?source=google_plusone&language=ja)
   - 2011 [ドリュー・ベリー「不可視な超微小生物世界のCG」](https://www.ted.com/talks/drew_berry_animations_of_unseeable_biology/transcript?awesm=on.ted.com_eiU6&source=twitter&language=ja)
 03:19 DNA複製
+06:38 微小管
 07:49 キネシン ダイニン
   - 2007 [デヴィッド・ボリンスキー: 細胞に命を吹き込む](https://www.ted.com/talks/david_bolinsky_animates_a_cell/transcript?awesm=on.ted.com_q05AE&utm_medium=on.ted.com-none&share=1294a707ec&utm_source=direct-on.ted.com&utm_campaign=&language=ja&utm_content=roadrunner-rrshorturl)
 06:21 07:50 キネシン
