@@ -100,11 +100,11 @@ p.34
 | G. | p.595 (図 17-44) 横行管(T管), 筋小胞体 |
 | H. | p.597 トロポニン |
 
+![http://feynmanino.watson.jp/5836_132cytoskeleton.html](http://feynmanino.watson.jp/5836_132cytoskeleton1.jpg)
+
 [細胞骨格](http://feynmanino.watson.jp/5836_132cytoskeleton.html)  
 p.566: (図 17-2) 中間径フィラメント（左）、微小管（中）、アクチンフィラメント（右）  
 p.567: (動画 17.1) 中間径フィラメント
-
-![http://feynmanino.watson.jp/5836_132cytoskeleton.html](http://feynmanino.watson.jp/5836_132cytoskeleton1.jpg)
 
 ### QUESTION_18-23
 | 問題 18-23 | ページ |
@@ -139,7 +139,7 @@ p.14
 p.654: (動画 19.1) 減数分裂 meiosis
 
 ### QUESTION_20-9
-| 問題 問題 20-9 | ページ |
+| 問題 20-9 | ページ |
 |:---------|:---------|
 | A. | p.700 (図 20-29) ギャップ結合 gap junction |
 | B. | p.685 膨圧 |
