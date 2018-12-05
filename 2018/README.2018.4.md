@@ -27,7 +27,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - 2018-11-23 勤労感謝の日
 - [2018-11-30](#2018-11-30) 第2回 
 - [2018-12-01](#2018-12-01)（土曜日）4限【補講】 第3回 
-- [2018-12-07](#2018-12-07) 第4回 [BI_5](#BI_5)
+- [2018-12-07](#2018-12-07) 第4回 
 - 2018-12-14 【休講】
 - 2018-12-21 第5回 
 - 2018-12-28 事務室閉室・冬季休校（12/28～1/5） 
@@ -156,8 +156,6 @@ p.654: (動画 19.1) 減数分裂 meiosis
 | E. | p.705 異なる組織は異なる速さでつくり替えられる |
 | F. | p.705 (図20-35) 幹細胞 stem cell |
 
-----------
-
 ## References
 **参考文献**
 
@@ -199,20 +197,45 @@ p.654: (動画 19.1) 減数分裂 meiosis
 　　系統樹をつくるための系統推定アルゴリズム
 - Keyword UPGMA 法，近隣結合法，最大節約法，最尤法
 
-## References
-**参考文献**
+## nintei_29
+[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
+| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
 
-http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm
-これが「棒の手紙」だ！
+- 問62
+  - BI p.144: 5-4 ゲノムワイド関連解析
+  - ECB p.676: 19 SNPを手がかりにヒトの疾患を解明する
+- 問63
+  - BI p.146: 5-5 同義置換と非同義置換
+  - ECB p.323: 問題9-17
+- （問 64・問 65・問 66）
+  - BI p.152: 5-8 系統推定アルゴリズム
 
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-系統推定の基本用語
+## nintei_28
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
 
-http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
-クラスター分析の光と闇
+- 問 61
+  - BI p.150: 5-7 遺伝子重複
+- 問 62
+  - BI p.146: 5-5 分子時計
+- （問 64・問 65）
+  - BI p.152: 5-8 最大節約法
+- （問 66・問 67）
+  - BI p.152: 5-8 近隣結合法
 
-https://togotv.dbcls.jp/20171106.html
-2017-11-06 MEGA7を使って配列のアラインメント・系統解析を行う
+## nintei_27
+[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
+
+- 問 70
+  - BI p.152: 5-8 系統推定アルゴリズム
+- 問 71
+  - BI p.152: 5-8 最大節約法
+- 問 72
+  - BI p.150: 5-7 図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
 
 ----------
 # 2018-11-30
@@ -432,19 +455,6 @@ https://togotv.dbcls.jp/20171106.html
   - BI p.44: メタゲノム; p.154: 6-1 オーミクス解析の研究手法; p.155: メタボローム解析
 - 問20
   - BI p.40: 1-16 ヒトゲノム
-
-----------
-## nintei_29
-[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
-| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
-
-- 問62
-  - BI p.144: 5-4 ゲノムワイド関連解析
-  - ECB p.676: 19 SNPを手がかりにヒトの疾患を解明する
-- 問63
-  - BI p.146: 5-5 同義置換と非同義置換
-  - ECB p.323: 問題9-17
 
 ----------
 
