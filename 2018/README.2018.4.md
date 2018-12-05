@@ -184,7 +184,7 @@ p.654: (動画 19.1) 減数分裂 meiosis
 
 図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/600px-Random_genetic_drift_chart.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/200px-Random_genetic_drift_chart.png)
 
 図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
 
