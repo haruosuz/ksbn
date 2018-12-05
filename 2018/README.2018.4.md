@@ -182,6 +182,15 @@ p.654: (動画 19.1) 減数分裂 meiosis
 　　分子進化の中立説と分子時計
 - Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
 
+図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/600px-Random_genetic_drift_chart.png)
+
+図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
+
+![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
+
+
 ## 5-6
 　進化系統樹
 　　進化系統樹の表現方法
@@ -202,14 +211,11 @@ p.654: (動画 19.1) 減数分裂 meiosis
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
 | [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
 
-- 問62
-  - BI p.144: 5-4 ゲノムワイド関連解析
-  - ECB p.676: 19 SNPを手がかりにヒトの疾患を解明する
 - 問63
   - BI p.146: 5-5 同義置換と非同義置換
   - ECB p.323: 問題9-17
 - （問 64・問 65・問 66）
-  - BI p.152: 5-8 系統推定アルゴリズム
+  - BI p.152: 5-8 系統推定アルゴリズム: UPGMA 法，近隣結合法，最大節約法，最尤法
 
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
@@ -217,13 +223,13 @@ p.654: (動画 19.1) 減数分裂 meiosis
 | [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
 
 - 問 61
-  - BI p.150: 5-7 遺伝子重複
+  - BI p.150: 5-7 遺伝子重複，オーソログ (ortholog)，パラログ (paralog)
 - 問 62
   - BI p.146: 5-5 分子時計
 - （問 64・問 65）
-  - BI p.152: 5-8 最大節約法
+  - BI p.152: 5-8 最大節約法 (maximum parsimony; MP法)
 - （問 66・問 67）
-  - BI p.152: 5-8 近隣結合法
+  - BI p.152: 5-8 近隣結合法 (neighbor-joining method; NJ法)
 
 ## nintei_27
 [Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
@@ -231,11 +237,12 @@ p.654: (動画 19.1) 減数分裂 meiosis
 | [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
 
 - 問 70
-  - BI p.152: 5-8 系統推定アルゴリズム
+  - BI p.150: 5-7 パラログ・オーソログ
+  - BI p.152: 5-8 系統樹推定法
 - 問 71
   - BI p.152: 5-8 最大節約法
 - 問 72
-  - BI p.150: 5-7 図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
+  - BI p.150: 5-7 遺伝子重複，図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
 
 ----------
 # 2018-11-30
@@ -395,13 +402,6 @@ p.654: (動画 19.1) 減数分裂 meiosis
 - 問20
   - BI p.42: PCR(polymerase chain reaction)
 - 
-- 問61
-  - BI p.150: 5-7 遺伝子重複
-- 問62
-  - BI p.146: 5-5 分子時計
-- 
-- 問 64・問 65
-  - BI p.152: 5-8 系統推定アルゴリズム 最大節約法 (maximum parsimony; MP法)
 
 ----------
 # 2019-01-11
