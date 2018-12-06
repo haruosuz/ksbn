@@ -196,19 +196,33 @@ p.654: (動画 19.1) 減数分裂 meiosis
 - Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
 
 [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
-- 系統樹 Phylogenetic tree
-- 節 node
-- 枝 branch
+- 系統樹 phylogenetic tree; 節 node; 枝 branch
+- 樹形 トポロジー topology
 - 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
 - 内部節 internal node
+- 根 root
+- 有根系統樹 rooted tree
+- 無根系統樹 unrooted tree
+- 枝長 branch length
+- Newick format
 - 外群 outgoup
 
 ![](http://nesseiken.info/Chiba_lab/index.php?plugin=attach&refer=%E6%8E%88%E6%A5%AD%2FH18%2F%E9%80%B2%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6I%2F%E7%B3%BB%E7%B5%B1%E6%8E%A8%E5%AE%9A%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E&openfile=branch.gif)
+
+![](http://nesseiken.info/Chiba_lab/index.php?plugin=ref&page=%E6%8E%88%E6%A5%AD%2FH17%2F%E7%B3%BB%E7%B5%B1%E8%A7%A3%E6%9E%90%E8%AB%96%2Ffollowup&src=WS000001.JPG)
 
 ## 5-7
 　パラログ・オーソログ
 　　進化系統樹によるホモログ・パラログ・オーソログの解析
 - Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
+
+[相同性 homology](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#homology)
+- 遺伝子重複 gene duplication
+- ホモログ homologs
+- オーソログ・オルソログ orthologs
+- パラログ paralogs
+
+![https://schaechter.asmblog.org/schaechter/2009/03/of-terms-in-biology-ortholog.html](https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef01a73dde119f970d-300wi)
 
 ## 5-8
 　系統推定アルゴリズム
