@@ -169,6 +169,10 @@ p.654: (動画 19.1) 減数分裂 meiosis
 06:21 07:50 キネシン
 
 ----------
+
+[分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
+
+----------
 # BI_5
 
 「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
@@ -200,9 +204,7 @@ p.654: (動画 19.1) 減数分裂 meiosis
 - 樹形 トポロジー topology
 - 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
 - 内部節 internal node
-- 根 root
-- 有根系統樹 rooted tree
-- 無根系統樹 unrooted tree
+- 根 root; 有根系統樹 rooted tree; 無根系統樹 unrooted tree
 - 枝長 branch length
 - Newick format
 - 外群 outgoup
