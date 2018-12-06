@@ -179,7 +179,7 @@ p.654: (動画 19.1) 減数分裂 meiosis
 
 ## 5-5
 　分子進化
-　　分子進化の中立説と分子時計
+　　[分子進化の中立説](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)と[分子時計](https://ja.wikipedia.org/wiki/分子時計)
 - Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
 
 図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
@@ -190,11 +190,20 @@ p.654: (動画 19.1) 減数分裂 meiosis
 
 ![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
 
-
 ## 5-6
 　進化系統樹
 　　進化系統樹の表現方法
 - Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
+
+[系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
+- 系統樹 Phylogenetic tree
+- 節 node
+- 枝 branch
+- 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
+- 内部節 internal node
+- 外群 outgoup
+
+![](http://nesseiken.info/Chiba_lab/index.php?plugin=attach&refer=%E6%8E%88%E6%A5%AD%2FH18%2F%E9%80%B2%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6I%2F%E7%B3%BB%E7%B5%B1%E6%8E%A8%E5%AE%9A%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%94%A8%E8%AA%9E&openfile=branch.gif)
 
 ## 5-7
 　パラログ・オーソログ
