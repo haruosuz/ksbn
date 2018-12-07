@@ -196,8 +196,11 @@ p.654: (動画 19.1) 減数分裂 meiosis
 - Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
 
 図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
-図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/200px-Random_genetic_drift_chart.png)
+
+図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
+
 ![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
 
 ## 5-6
