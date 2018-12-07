@@ -177,13 +177,11 @@ p.14
 - 体系学 systematics
   - 分類学 taxonomy
   - 系統学 phylogenetics
-- [これが「棒の手紙」だ！](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
 - [三中信宏 MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
   - [系統樹ハンターの狩猟記録](http://leeswijzer.hatenablog.com/)
+- [棒の手紙](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
 - [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
-- [MEGA: Molecular Evolutionary Genetics Analysis software](https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega)
-- [パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)
 
 ----------
 # BI_5
@@ -233,7 +231,13 @@ p.14
   - オーソログ・オルソログ orthologs
   - パラログ paralogs
 
+図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
+
 ![https://schaechter.asmblog.org/schaechter/2009/03/of-terms-in-biology-ortholog.html](https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef01a73dde119f970d-300wi)
+
+[最近共通祖先 most recent common ancestor (MRCA)](https://ja.wikipedia.org/wiki/最も近い共通祖先)
+
+[遺伝子の水平伝播 horizontal gene transfer](https://ja.wikipedia.org/wiki/遺伝子の水平伝播)
 
 ## 5-8
 　系統推定アルゴリズム
