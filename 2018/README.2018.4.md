@@ -169,8 +169,17 @@ p.654: (動画 19.1) 減数分裂 meiosis
 06:21 07:50 キネシン
 
 ----------
+# Systematics
 
-[分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
+- [これが「棒の手紙」だ！](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
+- [系統樹ハンターの狩猟記録](http://leeswijzer.hatenablog.com/)
+  - [ビールの系統樹](http://leeswijzer.hatenablog.com/entry/2014/07/18/214351)
+- [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
+- [クラスター分析の光と闇](http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html)
+- [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
+- [パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)
+- [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
+- [MEGA: Molecular Evolutionary Genetics Analysis software](https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega)
 
 ----------
 # BI_5
@@ -187,11 +196,8 @@ p.654: (動画 19.1) 減数分裂 meiosis
 - Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
 
 図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/200px-Random_genetic_drift_chart.png)
-
 図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/200px-Random_genetic_drift_chart.png)
 ![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
 
 ## 5-6
