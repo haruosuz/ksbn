@@ -175,6 +175,7 @@ p.654: (動画 19.1) 減数分裂 meiosis
   - 系統学 phylogenetics
 - [これが「棒の手紙」だ！](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
 - [三中信宏 MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
+  - [系統樹ハンターの狩猟記録](http://leeswijzer.hatenablog.com/)
 - [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
 - [MEGA: Molecular Evolutionary Genetics Analysis software](https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega)
