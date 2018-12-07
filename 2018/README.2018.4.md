@@ -169,17 +169,16 @@ p.654: (動画 19.1) 減数分裂 meiosis
 06:21 07:50 キネシン
 
 ----------
-# Systematics
-
+# systematics
+- 体系学 systematics
+  - 分類学 taxonomy
+  - 系統学 phylogenetics
 - [これが「棒の手紙」だ！](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
-- [系統樹ハンターの狩猟記録](http://leeswijzer.hatenablog.com/)
-  - [ビールの系統樹](http://leeswijzer.hatenablog.com/entry/2014/07/18/214351)
-- [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
-- [クラスター分析の光と闇](http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html)
+- [三中信宏 MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
 - [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
-- [パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
 - [MEGA: Molecular Evolutionary Genetics Analysis software](https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega)
+- [パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)
 
 ----------
 # BI_5
