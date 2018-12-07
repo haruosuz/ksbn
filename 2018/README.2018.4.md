@@ -133,7 +133,7 @@ p.566: (図 17-2) 中間径フィラメント（左）、微小管（中）、�
 p.14
 　1-3　細胞周期
 　　細胞分裂と細胞周期
-図 3.体細胞分裂と減数分裂
+図 1.細胞周期
 
 ----------
 # 2018-12-07
@@ -147,18 +147,21 @@ p.14
 
 p.654: (動画 19.1) 減数分裂 meiosis
 
+[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
+p.14
+図 3.体細胞分裂と減数分裂
+
 ### QUESTION_20-9
 | 問題 20-9 | ページ |
 |:---------|:---------|
 | A. | p.700 (図 20-29) ギャップ結合 gap junction |
 | B. | p.685 膨圧 |
 | C. | p.694 プロテオグリカン proteoglycan |
-| D. | p.695 基底膜 basal lamina |
-| E. | p.705 異なる組織は異なる速さでつくり替えられる |
+| D. | p.695 (図 20-20) 基底膜 basal lamina |
+| E. | p.704 (図 20-34) 皮膚, 表皮 |
 | F. | p.705 (図20-35) 幹細胞 stem cell |
 
 ## References
-**参考文献**
 
 - TED Talk
   - 2014 [ジャネット・イワサ: アニメーションで科学者の仮説を試す方法](https://www.ted.com/talks/janet_iwasa_how_animations_can_help_scientists_test_a_hypothesis/transcript?source=google_plusone&language=ja)
