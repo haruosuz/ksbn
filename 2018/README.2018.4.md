@@ -381,7 +381,6 @@ p.14
   - p.300: 遺伝子の水平伝播と抗生物質耐性 (図 9-14. 動画 9.1)
   - p.308: 動く遺伝因子と抗生物質耐性 (図 9-25)
   - p.331-332: 抗生物質耐性をもつプラスミド (図 10-7)
-- BI p.42: プラスミド
 
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
