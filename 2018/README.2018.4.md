@@ -9,9 +9,9 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 ## References
 **参考文献**
-- [Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
-- [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
-  - [正誤表](http://www.keio-up.co.jp/kup/correction/22510.html)
+- ECB [Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
+- BI [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
+  - [正誤表](https://www.keio-up.co.jp/kup/correction/22510.html)
 - [Japanese Society for Bioinformatics - JSBi :: BI技術者認定試験](https://www.jsbi.org/nintei/)
 
 ![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
@@ -154,7 +154,7 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 
 まとめ「Essential細胞生物学」第16~20章
 
-[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+[Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
 - 16　細胞のシグナル伝達
   - P526: 細胞のシグナル伝達の一般原理
   - P539: Gタンパク共役型受容体
@@ -330,7 +330,7 @@ p.14
   - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00190)
   - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
 
-[Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
+[Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
 - 13　細胞が食物からエネルギーを得るしくみ
   - p.424: 図13-15 (動画13.1) 解糖
   - p.428: パネル13-1　解糖の10の反応の詳細
@@ -371,9 +371,6 @@ p.14
 
 ----------
 # 2018-11-16
-
-- BI [バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)
-- ECB [Essential細胞生物学（原書第4版）](http://www.nankodo.co.jp/g/g9784524261994/)
 
 ## AMR
 - [World Antibiotic Awareness Week](http://www.who.int/who-campaigns/world-antibiotic-awareness-week)
