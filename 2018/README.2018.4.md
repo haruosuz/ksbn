@@ -207,6 +207,15 @@ p.14
 
 [ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析) Genome-Wide Association Study (GWAS)
 
+## nintei_28
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
+
+- 問5
+  - BI p.14: 減数分裂
+  - ECB p.645: 19　有性生殖と遺伝学の力; p.648: 減数分裂 (動画 19.1)
+
 ----------
 # systematics
 - 体系学 systematics
@@ -214,8 +223,11 @@ p.14
   - 系統学 phylogenetics
 - [三中信宏 MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
   - [系統樹ハンターの狩猟記録](http://leeswijzer.hatenablog.com/)
+  - [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
 - [棒の手紙](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
+- QA
+  - [分岐年代推定](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#divergence-time)
 
 ----------
 # 2019-01-11
