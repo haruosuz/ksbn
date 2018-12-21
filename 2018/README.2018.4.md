@@ -181,6 +181,7 @@ p.14
   - BI p.14: 1-3　細胞周期
   - ECB p.603: 18　細胞周期; p.613: G1期; p.616: S期; p.618: M期; p.621: 有糸分裂 mitosis
   - ECB p.620: 動画 18.4 18.5; p.624: 動画 18.6; p.626: 動画 18.7; p.629: 動画 18.8
+  - ECB p.626: 紡錘体, 微小管, チューブリン, コルヒチン
 - 問 4
   - BI p.36: メンデルの法則
   - ECB p.657: メンデルと遺伝の法則
@@ -205,8 +206,6 @@ p.14
   - BI p.144: 5-4 ゲノムワイド関連解析
   - ECB p.674 p.677: ゲノム関連解析
 
-[ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析) Genome-Wide Association Study (GWAS)
-
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
@@ -215,19 +214,26 @@ p.14
 - 問5
   - BI p.14: 減数分裂
   - ECB p.645: 19　有性生殖と遺伝学の力; p.648: 減数分裂 (動画 19.1)
+- 
+- 問 63
+  - BI p.144: 5-4 ゲノムワイド関連解析
+  - ECB p.674 p.677: ゲノム関連解析
+
+[ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析) Genome-Wide Association Study (GWAS)
 
 ----------
 # systematics
 - 体系学 systematics
   - 分類学 taxonomy
   - 系統学 phylogenetics
-- [三中信宏 MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
-  - [系統樹ハンターの狩猟記録](http://leeswijzer.hatenablog.com/)
+- 三中信宏 [MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
   - [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
-- [棒の手紙](http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm)
+  - [進化生物学と統計科学：系統樹の推定をめぐって](https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_pdf) | 2. 過去を復元する：歴史は科学の対象なのか | 3. アブダクション：仮説選択の相対的基準として
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
 - QA
-  - [分岐年代推定](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#divergence-time)
+  - 日経サイエンス 2005年3月号 [ウイルスは生きているのか](http://www.nikkei-science.com/page/magazine/0503/virus.html)
+  - 日経サイエンス 2008年9月号 [生物の種とは何か](http://www.nikkei-science.com/page/magazine/0809/200809_060.html) 「生物学的種概念」微生物
+  - [分岐年代推定](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#divergence-time) TimeTree
 
 ----------
 # 2019-01-11
@@ -272,7 +278,7 @@ p.14
 - Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
 
 [相同性 homology](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#homology)
-- 遺伝子重複 gene duplication
+- [遺伝子重複](https://ja.wikipedia.org/wiki/遺伝子重複) gene duplication
 - ホモログ homologs
   - オーソログ・オルソログ orthologs
   - パラログ paralogs
