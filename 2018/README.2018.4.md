@@ -14,8 +14,9 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
   - [正誤表](https://www.keio-up.co.jp/kup/correction/22510.html)
 - [Japanese Society for Bioinformatics - JSBi :: BI技術者認定試験](https://www.jsbi.org/nintei/)
 
-![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
 ![](https://d1gwi3e1mfwx7l.cloudfront.net/img/goods/L/9784524261994.jpg)
+
+![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
 
 ## Class Schedule & Materials
 **講義日程と資料**
