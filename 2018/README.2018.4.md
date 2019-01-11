@@ -15,7 +15,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 - [Japanese Society for Bioinformatics - JSBi :: BI技術者認定試験](https://www.jsbi.org/nintei/)
 
 ![](https://d1gwi3e1mfwx7l.cloudfront.net/img/goods/L/9784524261994.jpg)
-
 ![](https://www.keio-up.co.jp/img/cover_l/22510.jpg)
 
 ## Class Schedule & Materials
@@ -228,13 +227,7 @@ p.14
   - 分類学 taxonomy
   - 系統学 phylogenetics
 - 三中信宏 [MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
-  - [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
-  - [進化生物学と統計科学：系統樹の推定をめぐって](https://www.jstage.jst.go.jp/article/jjb/28/Special_Issue_1/28_Special_Issue_1_S25/_pdf) | 2. 過去を復元する：歴史は科学の対象なのか | 3. アブダクション：仮説選択の相対的基準として
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
-- QA
-  - 日経サイエンス 2005年3月号 [ウイルスは生きているのか](http://www.nikkei-science.com/page/magazine/0503/virus.html)
-  - 日経サイエンス 2008年9月号 [生物の種とは何か](http://www.nikkei-science.com/page/magazine/0809/200809_060.html) 「生物学的種概念」微生物
-  - [分岐年代推定](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#divergence-time) TimeTree
 
 ----------
 # 2019-01-11
@@ -252,8 +245,6 @@ p.14
 
 図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Random_genetic_drift_chart.png/200px-Random_genetic_drift_chart.png)
-
 図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
 
 ![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
@@ -264,33 +255,19 @@ p.14
 - Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
 
 [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
-- 系統樹 phylogenetic tree; 節 node; 枝 branch
-- 樹形 トポロジー topology
-- 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
-- 内部節 internal node
-- 根 root; 有根系統樹 rooted tree; 無根系統樹 unrooted tree
-- 枝長 branch length
-- Newick format
-- 外群 outgoup
 
 ## 5-7
 　パラログ・オーソログ
 　　進化系統樹によるホモログ・パラログ・オーソログの解析
 - Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
 
-[相同性 homology](https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#homology)
+[相同性](https://ja.wikipedia.org/wiki/相同) homology
 - [遺伝子重複](https://ja.wikipedia.org/wiki/遺伝子重複) gene duplication
 - ホモログ homologs
   - オーソログ・オルソログ orthologs
   - パラログ paralogs
 
 図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
-
-![https://schaechter.asmblog.org/schaechter/2009/03/of-terms-in-biology-ortholog.html](https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef01a73dde119f970d-300wi)
-
-[最近共通祖先 most recent common ancestor (MRCA)](https://ja.wikipedia.org/wiki/最も近い共通祖先)
-
-[遺伝子の水平伝播 horizontal gene transfer](https://ja.wikipedia.org/wiki/遺伝子の水平伝播)
 
 ## 5-8
 　系統推定アルゴリズム
@@ -305,8 +282,6 @@ p.14
 - 問63
   - BI p.146: 5-5 同義置換と非同義置換
   - ECB p.323: 問題9-17
-- （問 64・問 65・問 66）
-  - BI p.152: 5-8 系統推定アルゴリズム: UPGMA 法，近隣結合法，最大節約法，最尤法
 
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
@@ -317,19 +292,12 @@ p.14
   - BI p.150: 5-7 遺伝子重複，オーソログ (ortholog)，パラログ (paralog)
 - 問 62
   - BI p.146: 5-5 分子時計
-- （問 64・問 65）
-  - BI p.152: 5-8 最大節約法 (maximum parsimony; MP法)
-- （問 66・問 67）
-  - BI p.152: 5-8 近隣結合法 (neighbor-joining method; NJ法)
 
 ## nintei_27
 [Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
 | [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
 
-- 問 70
-  - BI p.150: 5-7 パラログ・オーソログ
-  - BI p.152: 5-8 系統樹推定法
 - 問 71
   - BI p.152: 5-8 最大節約法
 - 問 72
