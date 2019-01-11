@@ -261,7 +261,7 @@ p.14
 - 内部節 internal node
 - 根 root; 有根系統樹 rooted tree; 無根系統樹 unrooted tree
 - 枝長 branch length
-- Newick format
+- ニューウィック形式 Newick format
 - 外群 outgoup
 
 ## 5-7
