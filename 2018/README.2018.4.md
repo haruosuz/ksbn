@@ -226,7 +226,7 @@ p.14
 - 体系学 systematics
   - 分類学 taxonomy
   - 系統学 phylogenetics
-- 三中信宏 [MINAKA Nobuhiro](https://github.com/haruosuz/evolve#leeswijzer)
+- [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
 - [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
 
 ----------
@@ -255,6 +255,14 @@ p.14
 - Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
 
 [系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
+- 系統樹 phylogenetic tree; 節 node; 枝 branch
+- 樹形 トポロジー topology
+- 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
+- 内部節 internal node
+- 根 root; 有根系統樹 rooted tree; 無根系統樹 unrooted tree
+- 枝長 branch length
+- Newick format
+- 外群 outgoup
 
 ## 5-7
 　パラログ・オーソログ
