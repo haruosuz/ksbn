@@ -417,53 +417,53 @@ p.14
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
 | [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
 
-- 問1
+- 問 1
   - BI p.46: 二次元電気泳動
   - ECB p.165: 密度勾配遠心法 (パネル 4-3)
-- 問2
+- 問 2
   - BI p.46: 質量分析
-- 問3
+- 問 3
   - BI p.11,14,41: ヒト 二倍体
-- 問4
+- 問 4
   - BI p.45: リファレンス(参照)配列
-- 問5
+- 問 5
   - BI p.14: 減数分裂
   - ECB p.645: 19　有性生殖と遺伝学の力; p.648: 減数分裂 (動画 19.1)
-- 問6
+- 問 6
   - ECB p.341: サンガー法 Sanger method (図 10-19)
   - [高速シーケンス（NGS）解析｜タカラバイオ株式会社](http://catalog.takara-bio.co.jp/jutaku/basic_info.php?unitid=U100005162)
-- 問7
+- 問 7
   - BI p.20: 1-6 翻訳
-- 問8
+- 問 8
   - BI p.12: 1-2 細胞内小器官
-- 問9
+- 問 9
   - BI p.10: 真核生物; p.18: 1-5 転写, RNA ポリメラーゼ
-- 問10
+- 問 10
   - BI p.10: 原核細胞
-- 問11
+- 問 11
   - BI p.18: リボソームRNA (rRNA)
   - BI p.31: ユビキチン化
   - ECB p.282: マイクロRNA microRNA (miRNA), RNA誘導サイレンシング複合体 RNA induced silencing complex (RISC) (図8-25)
   - ECB p.284: 長鎖非翻訳RNA long noncoding RNA, Xist
-- 問12
+- 問 12
   - BI p.42: 1-17 遺伝子組換え
   - ECB p.283: 低分子干渉RNA small interfering RNA (siRNA) (図 8-26)
-- 問13
+- 問 13
   - BI p.18: 1-5 転写, キャップ構造, ポリA鎖
-- 問14
+- 問 14
   - BI p.20: 1-6 翻訳; p.24: 1-8 アミノ酸の構造と性質
-- 問15
+- 問 15
   - [エピゲノム](http://crest-ihec.jp/public/epigenome_qa.html)
   - BI p.44-45: エキソーム
   - [exonの網羅的解析は「exome」です。](https://bio.nikkeibp.co.jp/article/news/20130227/166503/)
-- 問16
+- 問 16
   - BI p.16: 1-4 DNAの複製
-- 問17
+- 問 17
   - BI p.11: レトロウイルス; p.40: LTR型レトロトランスポゾン
 -
-- 問19
+- 問 19
   - BI p.45: ChIP–Seq; p.46: DNA マイクロアレイ
-- 問20
+- 問 20
   - BI p.42: PCR(polymerase chain reaction)
 - 
 
@@ -474,48 +474,48 @@ p.14
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
 | [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
 
-- 問1
+- 問 1
   - BI p.10: 原核生物
-- 問2
+- 問 2
   - BI p.11: ウイルス
-- 問3
+- 問 3
   - BI p.12: 1-2 細胞内小器官; p.33: 解糖系，クエン酸回路，電子伝達系
-- 問4
+- 問 4
   - BI p.12: ミトコンドリア
-- 問5
+- 問 5
   - BI p.14: 1-3 細胞周期
-- 問6
+- 問 6
   - BI p.14: 減数分裂
   - ECB p.645: 19　有性生殖と遺伝学の力; p.648: 減数分裂 (動画 19.1)
-- 問7
+- 問 7
   - BI p.36: 1-14 遺伝
-- 問8
+- 問 8
   - BI p.32: 免疫
-- 問9
+- 問 9
   - BI p.34: 神経伝達物質
   - ECB p.529: 表 16-1 シグナル分子の例
-- 問10
+- 問 10
   - BI p.28: 1-10 生体膜と膜タンパク質
-- 問11
+- 問 11
   - BI p.22: DNA
-- 問12
+- 問 12
   - BI p.16: 1-4 DNAの複製
-- 問13
+- 問 13
   - BI p.18: 1-5 転写, キャップ構造, ポリA鎖, イントロン
-- 問14
+- 問 14
   - BI p.24: 1-8 アミノ酸の構造と性質
-- 問15
+- 問 15
   - BI p.20: 1-6 翻訳, A 部位 A-site (aminoacyl), P 部位 P-site (peptidyl)
-- 問16
+- 問 16
   - BI p.26: タンパク質の折りたたみ; p.31: プロテアソーム
-- 問17
+- 問 17
   - BI p.10: ヌクレオソーム
-- 問18
+- 問 18
   - BI p.42: PCR
   - ECB p.338: 図 10-15 PCR, 動画 10.1
-- 問19
+- 問 19
   - BI p.44: メタゲノム; p.154: 6-1 オーミクス解析の研究手法; p.155: メタボローム解析
-- 問20
+- 問 20
   - BI p.40: 1-16 ヒトゲノム
 
 ----------
