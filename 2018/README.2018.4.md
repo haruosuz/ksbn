@@ -204,7 +204,7 @@ p.14
 - 
 - 問 62
   - BI p.144: 5-4 ゲノムワイド関連解析
-  - ECB p.674 p.677: ゲノム関連解析
+  - ECB p.645: 19　有性生殖と遺伝学の力; p.674 p.677: ゲノム関連解析
 
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
@@ -217,7 +217,7 @@ p.14
 - 
 - 問 63
   - BI p.144: 5-4 ゲノムワイド関連解析
-  - ECB p.674 p.677: ゲノム関連解析
+  - ECB p.645: 19　有性生殖と遺伝学の力; p.674 p.677: ゲノム関連解析
 
 [ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析) Genome-Wide Association Study (GWAS)
 
@@ -287,7 +287,7 @@ p.14
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
 | [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
 
-- 問63
+- 問 63
   - BI p.146: 5-5 同義置換と非同義置換
   - ECB p.323: 問題9-17
 
