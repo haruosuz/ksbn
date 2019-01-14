@@ -211,7 +211,7 @@ p.14
 | [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
 | [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
 
-- 問5
+- 問 5
   - BI p.14: 減数分裂
   - ECB p.645: 19　有性生殖と遺伝学の力; p.648: 減数分裂 (動画 19.1)
 - 
