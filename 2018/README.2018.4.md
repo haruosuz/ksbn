@@ -369,10 +369,14 @@ p.14
 ![](https://www.genome.jp/kegg/misc/thumbnail/map00290.gif)
 
 [KEGG パスウェイマップ](https://www.genome.jp/kegg-bin/get_htext?jp08901)
+- 代謝
   - [解糖系・糖新生系 Glycolysis / Gluconeogenesis](https://www.genome.jp/kegg-bin/show_pathway?map00010)
   - [クエン酸回路 (TCA サイクル) Citrate cycle (TCA cycle)](https://www.genome.jp/kegg-bin/show_pathway?map00020)
   - [酸化的リン酸化 Oxidative phosphorylation](https://www.genome.jp/kegg-bin/show_pathway?map00190)
   - [光合成 Photosynthesis](https://www.genome.jp/kegg-bin/show_pathway?map00195)
+- シグナル伝達
+  - [Ras シグナル伝達経路 Ras signaling pathway](https://www.genome.jp/kegg-bin/show_pathway?hsa04014)
+  - [MAPK シグナル伝達経路 MAPK signaling pathway](https://www.genome.jp/kegg-bin/show_pathway?hsa04010)
 
 [Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
 - 13　細胞が食物からエネルギーを得るしくみ
@@ -385,6 +389,9 @@ p.14
   - p.456: 図14-14 (動画14.2) 呼吸酵素複合体
   - p.458: 図 14-16 (動画14.3) ATP合成酵素
   - p.475: 図14-37 (動画14.7) 光合成
+- 16　細胞のシグナル伝達
+  - p.553: RTKのほとんどが単量体GTPアーゼ、Rasを活性化する
+    - MAPキナーゼ Mitogen-activated Protein Kinase (MAPK)
 
 ## nintei_28
 [Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
