@@ -232,100 +232,6 @@ p.14
     - ゲノム関連解析
 
 ----------
-# systematics
-- 体系学 systematics
-  - 分類学 taxonomy
-  - 系統学 phylogenetics
-- [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
-- [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
-
-----------
-# 2019-01-11
-
-[Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
-- 9　遺伝子とゲノムの進化
-　解明への手がかり：遺伝子を数える
-
-「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
-[5-5](#5-5) 
-[5-6](#5-6) 
-[5-7](#5-7) 
-[5-8](#5-8) 
-
-## 5-5
-　分子進化
-　　[分子進化の中立説](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)と[分子時計](https://ja.wikipedia.org/wiki/分子時計)
-- Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
-
-図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
-
-図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
-
-![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
-
-## 5-6
-　進化系統樹
-　　進化系統樹の表現方法
-- Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
-
-[系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
-- 系統樹 phylogenetic tree; 節 node; 枝 branch
-- 樹形 トポロジー topology
-- 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
-- 内部節 internal node
-- 根 root; 有根系統樹 rooted tree; 無根系統樹 unrooted tree
-- 枝長 branch length
-- ニューウィック形式 Newick format
-- 外群 outgoup
-
-## 5-7
-　パラログ・オーソログ
-　　進化系統樹によるホモログ・パラログ・オーソログの解析
-- Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
-
-[相同性](https://ja.wikipedia.org/wiki/相同) homology
-- [遺伝子重複](https://ja.wikipedia.org/wiki/遺伝子重複) gene duplication
-- ホモログ homologs
-  - オーソログ・オルソログ orthologs
-  - パラログ paralogs
-
-図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
-
-## 5-8
-　系統推定アルゴリズム
-　　系統樹をつくるための系統推定アルゴリズム
-- Keyword UPGMA 法，近隣結合法，最大節約法，最尤法
-
-## nintei_29
-[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
-| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
-
-- 問 63
-  - BI p.146: 5-5 同義置換と非同義置換
-  - ECB p.323: 問題9-17
-
-## nintei_28
-[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
-| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
-
-- 問 61
-  - BI p.150: 5-7 遺伝子重複，オーソログ (ortholog)，パラログ (paralog)
-- 問 62
-  - BI p.146: 5-5 分子時計
-
-## nintei_27
-[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
-| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
-| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
-
-- 問 71
-  - BI p.152: 5-8 最大節約法
-- 問 72
-  - BI p.150: 5-7 遺伝子重複，図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
-
-----------
 # 2018-11-30
 
 「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第3章 配列解析 
@@ -488,10 +394,101 @@ p.14
   - BI p.42: PCR(polymerase chain reaction)
 - 
 
+----------
+# systematics
+- 体系学 systematics
+  - 分類学 taxonomy
+  - 系統学 phylogenetics
+- [ダイアグラム思考 — 分類と系統の世界観 —](https://www.slideshare.net/WIADtokyo/world-ia-day-2017-tokyo-nobuhiro-minaka)
+- [BIRD 分子系統解析](http://www.jst.go.jp/nbdc/bird/jinzai/literacy/streaming/h21_4_3.pdf)
 
 ----------
-----------
+# 2019-01-11
 
+[Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
+- 9　遺伝子とゲノムの進化
+　解明への手がかり：遺伝子を数える
+
+「[バイオインフォマティクス入門](https://www.keio-up.co.jp/np/isbn/9784766422511/)」第5章　遺伝・進化解析
+[5-5](#5-5) 
+[5-6](#5-6) 
+[5-7](#5-7) 
+[5-8](#5-8) 
+
+## 5-5
+　分子進化
+　　[分子進化の中立説](https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html)と[分子時計](https://ja.wikipedia.org/wiki/分子時計)
+- Keyword 中立進化，同義置換，非同義置換，アミノ酸置換率，分子時計
+
+図 1.中立進化と[遺伝的浮動](https://ja.wikipedia.org/wiki/遺伝的浮動)
+
+図 2.脊椎動物の分岐年代とアミノ酸置換率との関係
+
+![https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html](https://www.brh.co.jp/_old/imgs/katari/shinka/09_zu03.gif)
+
+## 5-6
+　進化系統樹
+　　進化系統樹の表現方法
+- Keyword 系統樹，OTU，外群，共通祖先，ニューウィック形式
+
+[系統推定の基本用語](http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語)
+- 系統樹 phylogenetic tree; 節 node; 枝 branch
+- 樹形 トポロジー topology
+- 外部節 external node; 操作的分類単位 Operational Taxonomic Unit (OTU)
+- 内部節 internal node
+- 根 root; 有根系統樹 rooted tree; 無根系統樹 unrooted tree
+- 枝長 branch length
+- ニューウィック形式 Newick format
+- 外群 outgoup
+
+## 5-7
+　パラログ・オーソログ
+　　進化系統樹によるホモログ・パラログ・オーソログの解析
+- Keyword 遺伝子重複，ホモログ，パラログ，オーソログ，水平伝播
+
+[相同性](https://ja.wikipedia.org/wiki/相同) homology
+- [遺伝子重複](https://ja.wikipedia.org/wiki/遺伝子重複) gene duplication
+- ホモログ homologs
+  - オーソログ・オルソログ orthologs
+  - パラログ paralogs
+
+図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
+
+## 5-8
+　系統推定アルゴリズム
+　　系統樹をつくるための系統推定アルゴリズム
+- Keyword UPGMA 法，近隣結合法，最大節約法，最尤法
+
+## nintei_29
+[Japanese Society for Bioinformatics - JSBi :: 平成29年度試験情報](https://www.jsbi.org/nintei/29/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H29mondai.pdf) 
+| [解説(PDF形式)](https://www.jsbi.org/files/7015/2721/4818/H29kaisetsu.pdf) 
+
+- 問 63
+  - BI p.146: 5-5 同義置換と非同義置換
+  - ECB p.323: 問題9-17
+
+## nintei_28
+[Japanese Society for Bioinformatics - JSBi :: 平成28年度試験情報](https://www.jsbi.org/nintei/28/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H28mondai2.pdf) 
+| [解説（PDF形式）](https://www.jsbi.org/files/3715/4234/7663/H28__20181116.pdf) 
+
+- 問 61
+  - BI p.150: 5-7 遺伝子重複，オーソログ (ortholog)，パラログ (paralog)
+- 問 62
+  - BI p.146: 5-5 分子時計
+
+## nintei_27
+[Japanese Society for Bioinformatics - JSBi :: 平成27年度試験情報](https://www.jsbi.org/nintei/27/) 
+| [問題と解答(PDF形式)](https://www.jsbi.org/pdfs/nintei/H27mondai.pdf) 
+| [解説（PDF型式）](https://www.jsbi.org/pdfs/nintei/H27kaisetsu.pdf) 
+
+- 問 71
+  - BI p.152: 5-8 最大節約法
+- 問 72
+  - BI p.150: 5-7 遺伝子重複，図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
+
+----------
 ----------
 
 ## nintei_27
