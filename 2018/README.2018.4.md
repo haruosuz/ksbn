@@ -37,16 +37,6 @@ MOLECULAR AND CELLULAR BIOLOGY 4 [Syllabus](https://vu.sfc.keio.ac.jp/course2014
 ----------
 ----------
 
-[Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
-  - p.645: 19　有性生殖と遺伝学の力
-  - p.672: 多型が連鎖したブロックは祖先から受け継がれてきた
-    - 一塩基多型 single-nucleotide polymorphism (SNP [スニップと読む], 図 19-36)
-  - p.673: ヒトゲノム塩基配列はヒトの進化史を知る手がかりになる
-  - p.674: 多型を使い疾患と関連する変異を探す
-    - ゲノム関連解析
-  - p.676: 解明への手がかり：SNPを手がかりにヒトの疾患を解明する
-    - ゲノム関連解析
-
 ----------
 # 2018-12-01
 
@@ -230,6 +220,16 @@ p.14
   - ECB p.645: 19　有性生殖と遺伝学の力; p.674 p.677: ゲノム関連解析
 
 [ゲノムワイド関連解析](https://bsd.neuroinf.jp/wiki/ゲノムワイド関連解析) Genome-Wide Association Study (GWAS)
+
+[Essential細胞生物学（原書第4版）](https://www.nankodo.co.jp/g/g9784524261994/)
+  - p.645: 19　有性生殖と遺伝学の力
+  - p.672: 多型が連鎖したブロックは祖先から受け継がれてきた
+    - 一塩基多型 single-nucleotide polymorphism (SNP [スニップと読む], 図 19-36)
+  - p.673: ヒトゲノム塩基配列はヒトの進化史を知る手がかりになる
+  - p.674: 多型を使い疾患と関連する変異を探す
+    - ゲノム関連解析
+  - p.676: 解明への手がかり：SNPを手がかりにヒトの疾患を解明する
+    - ゲノム関連解析
 
 ----------
 # systematics
