@@ -454,6 +454,12 @@ p.14
 
 図 1.グロビン，ミオグロビン，ヘモグロビンの系統樹
 
+![https://schaechter.asmblog.org/schaechter/2009/03/of-terms-in-biology-ortholog.html](https://schaechter.asmblog.org/.a/6a00d8341c5e1453ef01a73dde119f970d-300wi)
+
+[最近共通祖先 most recent common ancestor (MRCA)](https://ja.wikipedia.org/wiki/最も近い共通祖先)
+
+[遺伝子の水平伝播 horizontal gene transfer](https://ja.wikipedia.org/wiki/遺伝子の水平伝播)
+
 ## 5-8
 　系統推定アルゴリズム
 　　系統樹をつくるための系統推定アルゴリズム
